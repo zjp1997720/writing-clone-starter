@@ -1,28 +1,29 @@
 # writing-clone-starter
 
-Public snapshot of the `writing-clone-starter` skill and its directly referenced supporting materials.
+A normalized public snapshot of the `writing-clone-starter` skill.
 
-## What is included
+## Structure
 
-- The full `.claude/skills/writing-clone-starter/` directory
-- The supporting dependency subset copied from the original vault under the same relative paths
-- All six built-in author profiles currently wired into the skill
-- The evaluation set and runtime protocol used by the current snapshot
+This repository intentionally keeps only two parts:
 
-## Repository layout
+1. `.claude/skills/writing-clone-starter/` — the skill itself
+2. `02_素材库/writing-clone-starter-material-library/` — the unified material library used by the skill
 
-This repository preserves the original relative paths on purpose. The skill files still reference materials such as `01_项目/`, `02_素材库/`, `00_收件箱/`, and `.claude/agents/`. Those referenced files have been copied into this repository so the snapshot remains self-contained.
+## Why this layout
 
-## Notes
-
-- This is a snapshot export, not a full replacement for the private vault
-- Some assets are explicitly marked in-file as draft, formal-profile-draft, held-out, or maintenance-layer materials
-- The source documents themselves remain the authority for maturity and evidence caveats
+The original private vault had starter materials scattered across inbox, project research, shared material libraries, and auxiliary agent files. This snapshot normalizes that dependency graph so the skill only depends on one material-library root.
 
 ## Main entry
 
 - Skill entry: `.claude/skills/writing-clone-starter/SKILL.md`
 - Skill docs: `.claude/skills/writing-clone-starter/README.md`
+- Material library: `02_素材库/writing-clone-starter-material-library/README.md`
+
+## Notes
+
+- Built-in profiles remain at mixed maturity levels as documented in the skill files themselves
+- Maintenance modules such as profile-distillation and profile-probe are included
+- All external starter materials referenced by the skill have been normalized into the unified material library
 
 ## License
 
