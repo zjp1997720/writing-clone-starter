@@ -1,0 +1,44 @@
+# Source Index
+
+- author: `zhouzuoluo`
+
+- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_title-first-click.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_title-first-click.md`
+- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_mass-resonance-topic-selection.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
+- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_growth-monetization-funnel.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_growth-monetization-funnel.md`
+- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_upward-growth-environment.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_upward-growth-environment.md`
+- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_writing-as-upward-mobility.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_writing-as-upward-mobility.md`
+- `02_素材库/灵感素材/结构/20260406_zhouzuoluo_story-viewpoint-progression_1.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/20260406_zhouzuoluo_story-viewpoint-progression_1.md`
+- `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md`
+- `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md`
+- `00_收件箱/Clippings/粥左罗/反例/2017-04-10 知识付费三问：变现、留存、运营.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/negative/2017-04-10 知识付费三问：变现、留存、运营.md`
+- `02_素材库/高表现内容/长文/20260408_粥左罗主创团_月薪从3万降到500030岁之后要逼自己系统性成长.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗主创团_月薪从3万降到500030岁之后要逼自己系统性成长.md`
+- `00_收件箱/Clippings/粥左罗/2020-03-26 月薪从3万降到5000：30岁之后，要逼自己系统性成长.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2020-03-26 月薪从3万降到5000：30岁之后，要逼自己系统性成长.md`
+- `02_素材库/高表现内容/短图文/20260408_粥左罗_粥左罗我已经不缺钱了那我每天拼命努力动力是什么.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/shortform/20260408_粥左罗_粥左罗我已经不缺钱了那我每天拼命努力动力是什么.md`
+- `00_收件箱/Clippings/粥左罗/2023-04-13 粥左罗：我已经不缺钱了，那我每天拼命努力，动力是什么？.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-13 粥左罗：我已经不缺钱了，那我每天拼命努力，动力是什么？.md`
+- `02_素材库/高表现内容/长文/20260408_粥左罗_离职创业18个月我重新反思人最大的悲哀是错把平台当本事.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_离职创业18个月我重新反思人最大的悲哀是错把平台当本事.md`
+- `00_收件箱/Clippings/粥左罗/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md`
+- `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗赚不到钱看不到希望心累想躺平.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗赚不到钱看不到希望心累想躺平.md`
+- `00_收件箱/Clippings/粥左罗/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md`
+- `02_素材库/灵感素材/结构/20260406_zhouzuoluo_story-viewpoint-progression_2.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/20260406_zhouzuoluo_story-viewpoint-progression_2.md`
+- `02_素材库/灵感素材/结构/20260406_zhouzuoluo_growth-monetization-funnel_1.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/20260406_zhouzuoluo_growth-monetization-funnel_1.md`
+- `00_收件箱/实测/2026-04-06_粥左罗profile盲测-C2/evaluator_score.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗profile盲测-C2/evaluator_score.md`
+- `00_收件箱/实测/2026-04-06_粥左罗profile盲测-B/evaluator_score.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗profile盲测-B/evaluator_score.md`
+- `00_收件箱/实测/2026-04-06_粥左罗高拟态实测/rounds/round-02/evaluator_score.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗高拟态实测/rounds/round-02/evaluator_score.md`
+- `00_收件箱/实测/2026-04-06_粥左罗高拟态实测/rounds/round-03/evaluator_score.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗高拟态实测/rounds/round-03/evaluator_score.md`
+- `02_素材库/` -> `02_素材库/writing-clone-starter-material-library/`
+- `00_收件箱/Clippings/粥左罗/2023-04-26 敢于辞职，不怕被辞，你就成年了，否则还是幼年！.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-26 敢于辞职，不怕被辞，你就成年了，否则还是幼年！.md`
+- `00_收件箱/Clippings/粥左罗/2023-04-25 越自律越穷，越穷的人越谈自律！.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-25 越自律越穷，越穷的人越谈自律！.md`
+- `00_收件箱/Clippings/粥左罗/反例/2025-10-24 掌握头条号写作变现技巧，单篇收益翻倍至2243元的实战秘籍.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/negative/2025-10-24 掌握头条号写作变现技巧，单篇收益翻倍至2243元的实战秘籍.md`
+- `00_收件箱/Clippings/粥左罗/反例/2017-12-26 如何运营和推广一个付费社群（以知识星球为例）.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/negative/2017-12-26 如何运营和推广一个付费社群（以知识星球为例）.md`
+- `02_素材库/灵感素材/标题/` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/titles/`
+- `02_素材库/灵感素材/开头/` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/openings/`
+- `02_素材库/灵感素材/金句/` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/quotes/`
+- `02_素材库/灵感素材/结构/` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/`
+- `00_收件箱/Clippings/粥左罗/2025-11-17 粥左罗：普通人如何一年内赚到 200 万？.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2025-11-17 粥左罗：普通人如何一年内赚到 200 万？.md`
+- `00_收件箱/Clippings/粥左罗/unknown-date 粥左罗拆解写作年收入：图书版税50万，课程1000万.......md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/unknown-date 粥左罗拆解写作年收入：图书版税50万，课程1000万.......md`
+- `00_收件箱/Clippings/粥左罗/2025-07-13 对谈粥左罗+刘可乐：复盘改命的30年.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2025-07-13 对谈粥左罗+刘可乐：复盘改命的30年.md`
+- `02_素材库/高表现内容/长文/20260408_第三方整理稿非粥左罗原声_对谈粥左罗刘可乐复盘改命的30年.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_第三方整理稿非粥左罗原声_对谈粥左罗刘可乐复盘改命的30年.md`
+- `00_收件箱/Clippings/粥左罗/2025-07-11 粥左罗：奇葩老板，做的奇葩公司，持续增长七年！创业7年，首次分享.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2025-07-11 粥左罗：奇葩老板，做的奇葩公司，持续增长七年！创业7年，首次分享.md`
+- `02_素材库/高表现内容/长文/20260408_第三方整理稿非粥左罗原声_粥左罗奇葩老板做的奇葩公司持续增长七年创业7年首次分享.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_第三方整理稿非粥左罗原声_粥左罗奇葩老板做的奇葩公司持续增长七年创业7年首次分享.md`
+- `00_收件箱/Clippings/粥左罗/2024-12-15 vol164.粥左罗·顶峰会十年同行.md` -> `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2024-12-15 vol164.粥左罗·顶峰会十年同行.md`
