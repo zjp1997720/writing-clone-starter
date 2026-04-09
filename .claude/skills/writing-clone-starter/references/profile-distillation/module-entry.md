@@ -42,7 +42,7 @@
 2. `source-ledger.md`
 3. `02_素材库/writing-clone-starter-material-library/` 下的同步素材资产
 
-这里的统一素材库就是 starter 唯一正式外部材料面，不再假定还存在并行的“普通素材库”或其他分散依赖。
+这里的统一素材库就是 starter 唯一正式外部材料面，不再假定还存在并行的额外素材系统或其他分散依赖。
 
 ## 默认执行思路
 
