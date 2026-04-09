@@ -35,12 +35,12 @@ primary_modes: [high-likeness]
 
 本 profile 当前主要基于以下资产构建：
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_title-first-click.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_growth-monetization-funnel.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_upward-growth-environment.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_writing-as-upward-mobility.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_title-first-click.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_growth-monetization-funnel.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_upward-growth-environment.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_writing-as-upward-mobility.md`
 - `references/built-in-profiles/zhouzuoluo/raw-corpus/README.md` 中列出的补充源
 
 并由以下深化资产补强：

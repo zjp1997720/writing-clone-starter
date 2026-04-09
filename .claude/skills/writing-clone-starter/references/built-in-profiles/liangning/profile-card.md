@@ -36,9 +36,9 @@ primary_modes: [high-likeness]
 
 本 profile 当前主要基于以下资产构建：
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md`（一级主证据）
-- `.claude/agents/consult-liangning.md`（已落地的 consult agent，含框架与风格约束）
-- `.claude/skills/consult/references/routing-rules.md`（consult 路由中的梁宁定位）
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md`（一级主证据）
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md`（已落地的 consult agent，含框架与风格约束）
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/routing-rules.md`（consult 路由中的梁宁定位）
 - `references/built-in-profiles/liangning/raw-corpus/README.md` 中列出的补充源
 
 并由以下深化资产补强：

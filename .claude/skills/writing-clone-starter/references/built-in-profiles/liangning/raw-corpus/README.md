@@ -16,12 +16,12 @@
 
 当前已纳入：
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md`
    - 类型：二级调研报告（含一手观点引用、框架重构、场景模拟、风格分析）
    - 权重：一级主证据
    - 覆盖：价值观代际跃迁、核心方法论、语言风格、理论边界、场景模拟
 
-2. `.claude/agents/consult-liangning.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md`
    - 类型：已落地 consult agent 配置（含框架、风格约束、边界定义）
    - 权重：一级辅助证据
    - 覆盖：思维内核、诊断决策树、表达风格、擅长领域、边界约束
@@ -110,9 +110,9 @@
 
 ### 已有 vault 内材料
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md`
-2. `.claude/agents/consult-liangning.md`
-3. `.claude/skills/consult/references/routing-rules.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/routing-rules.md`
 
 ### 调研报告中引用的外部来源（待落库）
 

@@ -29,10 +29,10 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第一章、第三章
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第一章、第三章
    - 片段："变现是账号的起点，而非终点""一切不以变现为目的的流量都是垃圾流量"
    - 为什么相关：直接定义了变现前置的核心世界观
-2. `02_素材库/灵感素材/结构/2026-01-30_薛辉_漏斗分两层.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/structures/2026-01-30_薛辉_漏斗分两层.md`
    - 片段：60% 圈人群 + 40% 做转化的分层逻辑
    - 为什么相关：变现前置在内容结构上的具体落地
 
@@ -57,7 +57,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第五章
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第五章
    - 片段：数据复盘四维模型、完播率标准表、"运营就是不断修补木桶短板的过程"
    - 为什么相关：直接定义了数据归因的诊断方法论
 
@@ -82,13 +82,13 @@
 
 ### 证据来源
 
-1. `02_素材库/灵感素材/结构/2026-01-30_薛辉_漏斗分两层.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/structures/2026-01-30_薛辉_漏斗分两层.md`
    - 片段：卖螺母的案例 → 60/40 漏斗原理
    - 为什么相关：极端案例论证原理的经典结构
-2. `02_素材库/灵感素材/金句/2026-01-30_薛辉_一具体就深刻.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_一具体就深刻.md`
    - 片段："一具体就深刻"
    - 为什么相关：直接概括了这种论证方式的价值排序
-3. `02_素材库/灵感素材/结构/2026-01-30_薛辉_速问速答结构.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/structures/2026-01-30_薛辉_速问速答结构.md`
    - 片段：多行业秒答，每个回答都是极端具体判断
    - 为什么相关：极端案例在速答模式中的批量复现
 
@@ -113,7 +113,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第三章 3.3 节
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第三章 3.3 节
    - 片段："不要自己瞎想选题""按'点赞最多'排序，找最近一周的爆款""内容可以模仿，形式必须超越"
    - 为什么相关：完整的替代路径 + 核心指令
 
@@ -138,7 +138,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第一章 1.2 节
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第一章 1.2 节
    - 片段："不要用'亲'或'建议您'。直接指出问题。用数据说话。""恨铁不成钢"
    - 为什么相关：直接定义了诊断语气的核心特征
 
@@ -163,7 +163,7 @@
 
 ### 证据来源
 
-1. `02_素材库/灵感素材/金句/2026-01-30_薛辉_事件大于情绪.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_事件大于情绪.md`
    - 片段："事件大于情绪，情绪大于文案"
    - 为什么相关：明确的优先级排序公式，可操作
 
@@ -188,7 +188,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第八章
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第八章
    - 片段："99% 的人觉得自己被限流，其实只是内容变差了""点赞代表内容好，关注代表'人'有用"
    - 为什么相关：诊断模式中反复出现"先否定误判"的动作
 
@@ -213,7 +213,7 @@
 
 ### 证据来源
 
-1. `02_素材库/灵感素材/金句/2026-01-30_薛辉_情绪波点.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_情绪波点.md`
    - 片段："创作的起点是情绪波动的那个点，叫情绪波点"
    - 为什么相关：独创概念，可能是薛辉特有的创作方法论
 
@@ -238,9 +238,9 @@
 
 ### 证据来源
 
-1. `02_素材库/灵感素材/金句/2026-01-30_薛辉_接受自己是废物.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_接受自己是废物.md`
    - 片段："接受自己是个废物之后，他才会慢慢来"
-2. `02_素材库/灵感素材/金句/2026-01-30_薛辉_从零到百万粉.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_从零到百万粉.md`
    - 片段："从零到 100 万粉，全中国一年不到 1000 人"
 
 ### 过门理由

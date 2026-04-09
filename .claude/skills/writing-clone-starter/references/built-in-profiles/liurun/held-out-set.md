@@ -2,7 +2,7 @@
 
 ## 当前构建集（优先用于 profile 校准）
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md`（一级主证据）
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md`（一级主证据）
 2. 刘润年度演讲"进化的力量"公开文本（2024）
 3. "2026，拼命刷新自己"公开文章（2025）
 

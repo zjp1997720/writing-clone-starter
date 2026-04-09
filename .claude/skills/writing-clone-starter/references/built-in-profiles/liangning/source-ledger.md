@@ -15,10 +15,10 @@
 
 当前构建集的一个核心限制：
 
-- 主要证据来源是 `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md`
+- 主要证据来源是 `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md`
 - 这份报告本身是一份二级调研报告，包含了对梁宁公开内容的整理、重构和模拟
 - 其中引用了 9 个外部来源，但并非原文全文转录
-- `.claude/agents/consult-liangning.md` 与该调研报告基本同源，可作为内部理解一致性的旁证，但不能视为独立一手证据
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 与该调研报告基本同源，可作为内部理解一致性的旁证，但不能视为独立一手证据
 
 因此：
 
@@ -36,10 +36,10 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §3.1
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §3.1
    - 片段：痛点从"生存恐惧"到"替代焦虑"、爽点从"即时满足"到"掌控感"、痒点从"虚拟自我"到"创造力释放"
    - 为什么相关：直接展示了框架服务于恐惧追问的诊断逻辑
-2. `.claude/agents/consult-liangning.md` 框架一
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 框架一
    - 片段：痛点/爽点/痒点三角的 AI 时代新内涵与诊断追问
    - 为什么相关：落地配置中的诊断逻辑与报告一致
 
@@ -62,10 +62,10 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §4.1
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §4.1
    - 片段：核心隐喻库（进化/基因/丛林/恐惧/连接）+ 风格迁移示例
    - 为什么相关：明确指出"拒绝机械论，拥抱生物论"是系统性的语言特征
-2. `.claude/agents/consult-liangning.md` 比喻偏好
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 比喻偏好
    - 片段：生物学隐喻、地理隐喻、身体隐喻三类
    - 为什么相关：落地配置中三类隐喻被明确定义
 
@@ -88,10 +88,10 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §3.2
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §3.2
    - 片段：点线面体框架的 AI 时代升维，四层结构 + 战略建议
    - 为什么相关：直接定义了层级定位的诊断逻辑
-2. `.claude/agents/consult-liangning.md` 框架二
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 框架二
    - 片段：点线面体的 AI 时代现状与战略建议
    - 为什么相关：落地配置中层级定位被用于诊断决策树
 
@@ -114,10 +114,10 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §4.3
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §4.3
    - 片段："虽然犀利，但结尾往往带有鼓励或对人性的理解"
    - 为什么相关：直接描述了犀利与悲悯的张力
-2. `.claude/agents/consult-liangning.md` 表达风格
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 表达风格
    - 片段："温柔但锐利""指出问题时不留情面，但结尾总带着对人性的理解和悲悯"
    - 为什么相关：落地配置中这一张力被明确要求
 
@@ -140,7 +140,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §2.1
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §2.1
    - 片段："钱成为了我们很多人思考的一切，衡量一切的尺度" → "新的时代开始了" → "尊敬科学"
    - 为什么相关：核心价值观代际跃迁的直接表达
 
@@ -163,7 +163,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §2.4
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §2.4
    - 片段：传统零售 vs 兴趣零售、渠道驱动 vs 内容驱动
    - 为什么相关：这是她对增长问题的基本诊断入口
 
@@ -186,9 +186,9 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §4.2, §4.3
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §4.2, §4.3
    - 片段：空间感构建、哲学深度、追问本质
-2. `.claude/agents/consult-liangning.md` 回答模式
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 回答模式
    - 片段："收尾：哲学感收束 — 追问本质、回到人性、留下余韵"
 
 ### 过门理由
@@ -210,7 +210,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §2.3.3
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §2.3.3
    - 片段：人脑 vs 软件的知识传播效率对比
 
 ### 过门理由
@@ -232,9 +232,9 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §2.2
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §2.2
    - 片段：从产品经理到自由的人课程
-2. `.claude/agents/consult-liangning.md` 世界观设定
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 世界观设定
    - 片段：独立 IP + AI 智能体闭环交付 + 不依附组织
 
 ### 过门理由

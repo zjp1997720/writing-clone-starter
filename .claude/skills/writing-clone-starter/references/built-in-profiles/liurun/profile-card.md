@@ -36,7 +36,7 @@ primary_modes: [high-likeness]
 
 本 profile 当前主要基于以下资产构建：
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md`（一级主证据，综合调研报告）
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md`（一级主证据，综合调研报告）
 - 刘润年度演讲"进化的力量"公开文本（2024、2025）
 - 公众号"刘润"公开文章（二手整理稿为主，一手正文抓取待补）
 - `references/built-in-profiles/liurun/raw-corpus/README.md` 中列出的补充源

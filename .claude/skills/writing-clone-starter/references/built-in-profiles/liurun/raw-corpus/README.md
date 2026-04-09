@@ -18,7 +18,7 @@
 
 当前已纳入：
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md`
    - 类型：综合调研报告
    - 覆盖：世界观、核心框架（底层逻辑、交易结构、认知刷新四步法）、语言风格、金句结构、隐喻系统、AI 分身构建蓝图
    - 局限：为 AI 分身构建而写，不是对原始公众号正文的直接蒸馏

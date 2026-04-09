@@ -19,8 +19,8 @@ generic 商业导师也会用框架。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §3.1
-- `.claude/agents/consult-liangning.md` 思维内核
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §3.1
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 思维内核
 
 ## 2. 生物学隐喻持续贯穿，不是装饰性出现
 
@@ -36,8 +36,8 @@ generic 商业导师也会用框架。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §4.1
-- `.claude/agents/consult-liangning.md` 比喻偏好
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §4.1
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 比喻偏好
 
 ## 3. 把个体/产品放进更大的系统里做生态位定位
 
@@ -53,8 +53,8 @@ generic 商业导师也会用框架。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §3.2
-- `.claude/agents/consult-liangning.md` 框架二
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §3.2
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 框架二
 
 ## 4. 诊断犀利与人文悲悯同时存在
 
@@ -69,8 +69,8 @@ generic baseline 也能犀利，也能有温度。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §4.3
-- `.claude/agents/consult-liangning.md` 表达风格
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §4.3
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 表达风格
 
 ## 5. 先指出"旧逻辑失效"，再给新框架
 
@@ -84,8 +84,8 @@ generic baseline 也能犀利，也能有温度。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §2.4.1
-- `.claude/agents/consult-liangning.md` 世界观设定
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §2.4.1
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 世界观设定
 
 ## 6. 结尾是追问或余韵，不是 checklist 总结
 
@@ -103,8 +103,8 @@ generic baseline 也能犀利，也能有温度。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §4.2, §4.3
-- `.claude/agents/consult-liangning.md` 回答模式
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §4.2, §4.3
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 回答模式
 
 ## 7. 框架调用服务于恐惧追问，而不是框架本身成为主角
 
@@ -119,8 +119,8 @@ generic baseline 也能犀利，也能有温度。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md` §3.1
-- `.claude/agents/consult-liangning.md` 框架一
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md` §3.1
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md` 框架一
 
 ## 8. 避免 generic 商业导师腔本身也是 hard signal
 

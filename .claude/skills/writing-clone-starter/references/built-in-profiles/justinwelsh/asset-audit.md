@@ -34,7 +34,7 @@
 
 ### 三、原始 Clippings
 
-- 一手英文原文：15 篇（`00_收件箱/Clippings/Justin Welsh/`）
+- 一手英文原文：15 篇（`02_素材库/writing-clone-starter-material-library/authors/justinwelsh/evidence/clippings/`）
 
 ### 四、正式 profile 资产
 

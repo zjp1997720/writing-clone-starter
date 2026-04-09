@@ -14,8 +14,8 @@ generic baseline 也会用数字开场。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-roadmap.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-marketing.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-roadmap.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-marketing.md`
 
 ## 2. 清单不只是信息整理，每条都带经营判断
 
@@ -27,8 +27,8 @@ generic baseline 也会用数字开场。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-types.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-types.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
 
 ## 3. 用可量化公式把抽象经营问题工程化
 
@@ -40,9 +40,9 @@ generic baseline 也会讲方法。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-roadmap.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solo-branding.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-roadmap.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solo-branding.md`
 
 ## 4. Owned-audience vs rented-audience 的资产意识是内嵌的，不是后加的
 
@@ -54,8 +54,8 @@ generic baseline 也会讲方法。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-marketing.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-marketing.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
 
 ## 5. 风险被理性重写，而不是被鸡汤式否定
 
@@ -67,8 +67,8 @@ generic baseline 也会讲方法。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_spectator-dilemma.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-types.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_spectator-dilemma.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-types.md`
 
 ## 6. 反共识判断不是装饰，而是正文推进的转折点
 
@@ -80,9 +80,9 @@ generic baseline 也会讲方法。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_learningskeptic.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_learningskeptic.md`
 
 ## 7. 结尾是极简行动指令，不是总结段落
 
@@ -94,8 +94,8 @@ generic baseline 也会讲方法。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_spectator-dilemma.md`
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_solo-branding.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_spectator-dilemma.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solo-branding.md`
 
 ## 8. "Stop idolizing outliers"本身也是 hard signal
 
@@ -107,7 +107,7 @@ generic baseline 也会讲方法。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
 
 ## 9. Niche of One 是定位层的稳定框架
 
@@ -119,4 +119,4 @@ generic baseline 也会讲方法。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_justin_welsh_nicheofone.md`
+- `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_nicheofone.md`

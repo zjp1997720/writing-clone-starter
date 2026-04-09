@@ -38,8 +38,8 @@ primary_modes: [high-likeness]
 
 本 profile 当前主要基于以下资产构建：
 
-- `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md`（一级主证据，9 章 354 行）
-- `02_素材库/灵感素材/` 中 12 条薛辉相关碎片（标题 1 条、金句 7 条、结构 4 条）
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md`（一级主证据，9 章 354 行）
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/` 中的薛辉相关碎片（标题 / 金句 / 结构）
 - `references/built-in-profiles/xuehui/raw-corpus/README.md` 中列出的补充源
 
 并由以下深化资产补强：

@@ -18,12 +18,12 @@
 
 当前已纳入：
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_title-first-click.md`
-2. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
-3. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
-4. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_growth-monetization-funnel.md`
-5. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_upward-growth-environment.md`
-6. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_writing-as-upward-mobility.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_title-first-click.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+4. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_growth-monetization-funnel.md`
+5. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_upward-growth-environment.md`
+6. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_writing-as-upward-mobility.md`
 
 当前数量：8（正式 build-set）
 
@@ -76,10 +76,10 @@
 
 当前已存在：
 
-- `02_素材库/灵感素材/标题/` 中 `20260406_zhouzuoluo_*`
-- `02_素材库/灵感素材/开头/` 中 `20260406_zhouzuoluo_*`
-- `02_素材库/灵感素材/金句/` 中 `20260406_zhouzuoluo_*`
-- `02_素材库/灵感素材/结构/` 中 `20260406_zhouzuoluo_*`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/titles/` 中 `20260406_zhouzuoluo_*`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/openings/` 中 `20260406_zhouzuoluo_*`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/quotes/` 中 `20260406_zhouzuoluo_*`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/` 中 `20260406_zhouzuoluo_*`
 
 扩容目标：
 

@@ -2,8 +2,8 @@
 
 ## 当前构建集（优先用于 profile 校准）
 
-1. `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md`
-2. `.claude/agents/consult-liangning.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md`
 
 ## 当前 held-out 集（只服务后续盲测）
 

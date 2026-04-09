@@ -24,6 +24,19 @@ description: |
 
 **这个 skill 解决的是“先写出来”，不是“先证明你已经有完整个人风格资产”。**
 
+## 当前结构
+
+starter 当前默认只分两部分：
+
+1. **skill 本体**：`.claude/skills/writing-clone-starter/`
+2. **统一素材库**：`02_素材库/writing-clone-starter-material-library/`
+
+边界要求：
+
+- starter 内部规则、模式、作者资产继续放在 skill 内
+- skill 之外的一切外部材料、证据、clippings、验证材料，统一归到素材库
+- starter 不再默认跨到 inbox、项目研究区或其他分散系统路径取料
+
 ## 什么时候用
 
 出现下面这些信号时，优先使用本 skill：
@@ -232,6 +245,7 @@ description: |
 - 刘润 profile：`references/built-in-profiles/liurun/`
 - 梁宁 profile：`references/built-in-profiles/liangning/`
 - 薛辉 profile：`references/built-in-profiles/xuehui/`
+- 统一素材库：`02_素材库/writing-clone-starter-material-library/`
 
 ## Progressive Disclosure
 

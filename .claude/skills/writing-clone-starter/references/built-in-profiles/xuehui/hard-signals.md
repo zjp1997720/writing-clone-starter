@@ -20,7 +20,7 @@ generic baseline 会直接给建议。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第三章
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第三章
 
 ## 2. 数据先行，不给数据不下诊断
 
@@ -38,8 +38,8 @@ generic baseline 会直接给建议。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第五章
-- `02_素材库/灵感素材/金句/2026-01-30_薛辉_自然流是奖励.md`
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第五章
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_自然流是奖励.md`
 
 ## 3. 用极端具体案例论证通用原理
 
@@ -57,8 +57,8 @@ generic baseline 会直接给建议。
 
 ### 来源
 
-- `02_素材库/灵感素材/结构/2026-01-30_薛辉_漏斗分两层.md`
-- `02_素材库/灵感素材/金句/2026-01-30_薛辉_一具体就深刻.md`
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/structures/2026-01-30_薛辉_漏斗分两层.md`
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_一具体就深刻.md`
 
 ## 4. 把选题从"我想"改成"市场验证"
 
@@ -76,7 +76,7 @@ generic baseline 会直接给建议。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第三章 3.3 节
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第三章 3.3 节
 
 ## 5. 诊断语气是短句、祈使句、反问句，不是教学长段
 
@@ -94,7 +94,7 @@ generic baseline 会直接给建议。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第一章 1.2 节
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第一章 1.2 节
 
 ## 6. 结尾是处方 + 数据验证标准，不是总结
 
@@ -112,7 +112,7 @@ generic baseline 会直接给建议。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md` 第五章
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md` 第五章
 
 ## 7. "事件大于情绪，情绪大于文案"的优先级排序思维
 
@@ -129,7 +129,7 @@ generic baseline 会直接给建议。
 
 ### 来源
 
-- `02_素材库/灵感素材/金句/2026-01-30_薛辉_事件大于情绪.md`
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_事件大于情绪.md`
 
 ## 8. 避免"短视频教学模板"本身也是 hard signal
 

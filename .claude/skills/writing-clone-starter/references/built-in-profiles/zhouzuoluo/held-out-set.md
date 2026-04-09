@@ -2,11 +2,11 @@
 
 ## 当前构建集（优先用于 profile 校准）
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_title-first-click.md`
-2. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
-3. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
-4. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_growth-monetization-funnel.md`
-5. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_upward-growth-environment.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_title-first-click.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+4. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_growth-monetization-funnel.md`
+5. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_upward-growth-environment.md`
 
 ## 当前 held-out 集（只服务后续盲测）
 

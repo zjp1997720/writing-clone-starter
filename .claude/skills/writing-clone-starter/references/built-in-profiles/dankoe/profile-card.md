@@ -34,11 +34,11 @@ primary_modes: [high-likeness]
 
 本 profile 当前主要基于以下资产构建：
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_intellectual-signature.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_longformwriting.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_contentmap.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_fixlife1day.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_onepersonbizlaunch.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_intellectual-signature.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_longformwriting.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_contentmap.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_fixlife1day.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_onepersonbizlaunch.md`
 - `references/built-in-profiles/dankoe/raw-corpus/README.md` 中列出的补充源
 
 并由以下深化资产补强：

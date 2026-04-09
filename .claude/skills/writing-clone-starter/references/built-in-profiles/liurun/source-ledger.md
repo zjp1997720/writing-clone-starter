@@ -20,7 +20,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 3.3 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 3.3 节
    - 片段："难题+解题思路"架构中的共情 -> 重构 -> 解题三段式
    - 为什么相关：直接定义了刘润处理用户提问时的标准预处理程序
 
@@ -45,7 +45,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.1.2 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.1.2 节
    - 片段：消费降级伪命题分析（食品饮料 +7.8% vs +5.8%）
    - 为什么相关：定义了"数据校正主观判断"这一核心动作模式
 
@@ -70,7 +70,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 3.2 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 3.2 节
    - 片段：交易结构分析的标准诊断流程
    - 为什么相关：定义了刘润做商业模式诊断的"手术方法"
 
@@ -95,7 +95,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.1.3 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.1.3 节
    - 片段：爆珠酸奶 +453%（酸奶零食化）、身体抗衰 +174.5%（面子转里子）
    - 为什么相关：定义了"在存量中找增量"的方法论和实际应用模式
 
@@ -120,7 +120,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 3.1 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 3.1 节
    - 片段：表象（直播带货、私域、元宇宙）vs. 常量（流量成本、转化率、复购率）
    - 为什么相关：定义了刘润看问题的核心框架
 
@@ -145,7 +145,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 4.1 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 4.1 节
    - 片段：三种金句生成算法的完整定义和示例
    - 为什么相关：直接归纳了刘润金句的修辞结构
 
@@ -170,7 +170,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 3.4 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 3.4 节
    - 片段：商业生物学框架（市场=环境、企业=物种、转型=进化）
    - 为什么相关：进化论不是偶尔类比，而是他看商业的默认框架
 
@@ -195,7 +195,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.1.4 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.1.4 节
    - 片段：麦肯锡锂资源预测、华为机器人灵巧度判断、Gartner 技术成熟度曲线
    - 为什么相关：定义了"借助专家视角预判终局"的方法论
 
@@ -220,7 +220,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 4.3 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 4.3 节
    - 片段："大家都很焦虑。非常焦虑。为什么？"（短促、自问自答）
    - 为什么相关：定义了刘润的语言节奏特征
 
@@ -245,7 +245,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.1 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.1 节
    - 片段：四大支柱（筛选信息源 -> 数据校正 -> 反常数据 -> 专家视角）
    - 为什么相关：这是刘润处理任何商业问题的标准操作系统
 
@@ -270,7 +270,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.2.3 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.2.3 节
    - 片段：消费分级与"口红效应"变体
    - 为什么相关：刘润对消费趋势的标志性判断
 
@@ -295,7 +295,7 @@
 
 ### 证据来源
 
-1. `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.2.1 节
+1. `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.2.1 节
    - 片段：城镇 Z 世代画像（生于富强、视野开阔、可支配收入占比极高）
    - 为什么相关：定义了刘润分析消费行为的方法模式
 

@@ -4,7 +4,7 @@
 
 ### 一、核心证据
 
-- `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md`（一级主证据，9 章 354 行）
+- `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md`（一级主证据，9 章 354 行）
 
 ### 二、碎片级素材
 

@@ -4,9 +4,9 @@
 
 ### 一、证据源
 
-- `01_项目/内容创作/咨询天团/梁宁AI数字分身调研报告.md`（一级主证据，~15,500 字）
-- `.claude/agents/consult-liangning.md`（已落地 consult agent，~230 行）
-- `.claude/skills/consult/references/routing-rules.md`（consult 路由定位）
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/project-derived/梁宁AI数字分身调研报告.md`（一级主证据，~15,500 字）
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/consult-liangning.md`（已落地 consult agent，~230 行）
+- `02_素材库/writing-clone-starter-material-library/authors/liangning/evidence/consult-derived/routing-rules.md`（consult 路由定位）
 - 调研报告中引用的 9 个外部来源（待落库）
 
 ### 二、正式 profile 资产

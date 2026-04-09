@@ -12,6 +12,19 @@
 - `writing-clone-profile`：像用户自己写
 - `writing-clone-starter`：先帮没有个人资产的新手写出强文章，或先体验像某个内置作者写
 
+## 当前结构
+
+现在整个 starter 默认只分两部分：
+
+1. **skill 本体**：`.claude/skills/writing-clone-starter/`
+2. **统一素材库**：`02_素材库/writing-clone-starter-material-library/`
+
+这意味着：
+
+- starter 运行时仍然读取 skill 自己内部的规则与作者资产
+- starter 需要的外部材料，只允许来自统一素材库
+- 不再默认跨到 inbox、项目研究区或其他分散系统路径取料
+
 ## 适用场景
 
 - 用户只有一个主题，但没有完整素材和长期沉淀
@@ -84,6 +97,15 @@
 - 强文章不是 fallback
 - 高拟态不是默认并列主入口
 - `response.md` 是主成品，`run_summary.md` 是辅助说明
+
+## 外部取料边界
+
+starter 以后只应从下面两个区域取信息：
+
+1. `.claude/skills/writing-clone-starter/` 自身
+2. `02_素材库/writing-clone-starter-material-library/`
+
+如果某个作者 profile 还需要额外材料，应该先把材料归进统一素材库，再让 starter 引用，而不是继续临时跨路径读取。
 
 ## 硬约束
 

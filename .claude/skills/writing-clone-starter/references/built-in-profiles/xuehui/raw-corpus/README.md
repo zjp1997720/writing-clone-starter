@@ -18,24 +18,24 @@
 
 ### 一级主证据
 
-1. `01_项目/内容创作/咨询天团/薛辉AI数字分身调研报告.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/xuehui/evidence/project-derived/薛辉AI数字分身调研报告.md`
    - 9 章 354 行，覆盖算法机制、账号定位、内容工程、运营复盘、变现路径
    - 这份报告是当前薛辉 profile 最核心的证据来源
    - 注意：这是"基于薛辉方法论的调研报告"，不是薛辉本人的一手原文，存在转述风险
 
 ### 二级表达碎片
 
-2. `02_素材库/灵感素材/标题/2026-01-30_薛辉_渣男渣女做IP.md`
-3. `02_素材库/灵感素材/结构/2026-01-30_薛辉_漏斗分两层.md`
-4. `02_素材库/灵感素材/结构/2026-01-30_薛辉_事件叙事公式.md`
-5. `02_素材库/灵感素材/结构/2026-01-30_薛辉_速问速答结构.md`
-6. `02_素材库/灵感素材/金句/2026-01-30_薛辉_一具体就深刻.md`
-7. `02_素材库/灵感素材/金句/2026-01-30_薛辉_自然流是奖励.md`
-8. `02_素材库/灵感素材/金句/2026-01-30_薛辉_接受自己是废物.md`
-9. `02_素材库/灵感素材/金句/2026-01-30_薛辉_事件大于情绪.md`
-10. `02_素材库/灵感素材/金句/2026-01-30_薛辉_从零到百万粉.md`
-11. `02_素材库/灵感素材/金句/2026-01-30_薛辉_朋友圈都是作品.md`
-12. `02_素材库/灵感素材/金句/2026-01-30_薛辉_情绪波点.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/titles/2026-01-30_薛辉_渣男渣女做IP.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/structures/2026-01-30_薛辉_漏斗分两层.md`
+4. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/structures/2026-01-30_薛辉_事件叙事公式.md`
+5. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/structures/2026-01-30_薛辉_速问速答结构.md`
+6. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_一具体就深刻.md`
+7. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_自然流是奖励.md`
+8. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_接受自己是废物.md`
+9. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_事件大于情绪.md`
+10. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_从零到百万粉.md`
+11. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_朋友圈都是作品.md`
+12. `02_素材库/writing-clone-starter-material-library/authors/xuehui/canonical/snippets/quotes/2026-01-30_薛辉_情绪波点.md`
 
 当前数量：12（1 份一级报告 + 11 条作者相关碎片）
 

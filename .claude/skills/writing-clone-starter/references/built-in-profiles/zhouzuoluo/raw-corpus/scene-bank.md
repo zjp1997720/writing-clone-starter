@@ -47,8 +47,8 @@
   - scene-bank
 - 是否已拆入素材库: 是
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2025-11-17 粥左罗：普通人如何一年内赚到 200 万？.md`
-  - `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2025-11-17 粥左罗：普通人如何一年内赚到 200 万？.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md`
 
 ### 2. 「粥左罗拆解写作年收入：图书版税 50 万，课程 1000 万」
 
@@ -63,8 +63,8 @@
   - scene-bank
 - 是否已拆入素材库: 是
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/unknown-date 粥左罗拆解写作年收入：图书版税50万，课程1000万.......md`
-  - `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/unknown-date 粥左罗拆解写作年收入：图书版税50万，课程1000万.......md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md`
 
 ### 3. 「对谈粥左罗+刘可乐：复盘改命的 30 年」
 
@@ -78,8 +78,8 @@
   - 只提取时间线和事实节点，不提取语言风格
 - 是否已拆入素材库: 是
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2025-07-13 对谈粥左罗+刘可乐：复盘改命的30年.md`
-  - `02_素材库/高表现内容/长文/20260408_第三方整理稿非粥左罗原声_对谈粥左罗刘可乐复盘改命的30年.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2025-07-13 对谈粥左罗+刘可乐：复盘改命的30年.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_第三方整理稿非粥左罗原声_对谈粥左罗刘可乐复盘改命的30年.md`
 
 ### 4. 「奇葩老板，做的奇葩公司，持续增长七年！」
 
@@ -94,8 +94,8 @@
   - 只提取治理与经营节点，不提取整理稿语气
 - 是否已拆入素材库: 是
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2025-07-11 粥左罗：奇葩老板，做的奇葩公司，持续增长七年！创业7年，首次分享.md`
-  - `02_素材库/高表现内容/长文/20260408_第三方整理稿非粥左罗原声_粥左罗奇葩老板做的奇葩公司持续增长七年创业7年首次分享.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2025-07-11 粥左罗：奇葩老板，做的奇葩公司，持续增长七年！创业7年，首次分享.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_第三方整理稿非粥左罗原声_粥左罗奇葩老板做的奇葩公司持续增长七年创业7年首次分享.md`
 
 ### 5. 「在北京有房有车了，但我却受够了这种工作，想去干体力活！」
 
@@ -120,8 +120,8 @@
   - scene-bank
 - 是否已拆入素材库: 是
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2023-04-13 粥左罗：我已经不缺钱了，那我每天拼命努力，动力是什么？.md`
-  - `02_素材库/高表现内容/短图文/20260408_粥左罗_粥左罗我已经不缺钱了那我每天拼命努力动力是什么.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-13 粥左罗：我已经不缺钱了，那我每天拼命努力，动力是什么？.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/shortform/20260408_粥左罗_粥左罗我已经不缺钱了那我每天拼命努力动力是什么.md`
 
 ## 第二批候选（已抓取 / 待进一步落库）
 
@@ -138,8 +138,8 @@
   - scene-bank
 - 是否已拆入素材库: 是
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2020-03-26 月薪从3万降到5000：30岁之后，要逼自己系统性成长.md`
-  - `02_素材库/高表现内容/长文/20260408_粥左罗主创团_月薪从3万降到500030岁之后要逼自己系统性成长.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2020-03-26 月薪从3万降到5000：30岁之后，要逼自己系统性成长.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗主创团_月薪从3万降到500030岁之后要逼自己系统性成长.md`
 
 ### 8. 「顶峰会十年同行」播客
 
@@ -154,7 +154,7 @@
   - scene-bank（问题清单层）
 - 是否已拆入素材库: 否（已落 clipping）
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2024-12-15 vol164.粥左罗·顶峰会十年同行.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2024-12-15 vol164.粥左罗·顶峰会十年同行.md`
 
 ### 9. 「离职创业18个月，我重新反思‘人最大的悲哀，是错把平台当本事’」
 
@@ -169,7 +169,7 @@
   - held-out
 - 是否已拆入素材库: 否（已落 clipping）
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md`
 
 ### 10. 「赚不到钱，看不到希望，心累，想躺平！」
 
@@ -184,8 +184,8 @@
   - held-out
 - 是否已拆入素材库: 是
 - 已落文件:
-  - `00_收件箱/Clippings/粥左罗/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md`
-  - `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗赚不到钱看不到希望心累想躺平.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md`
+  - `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗赚不到钱看不到希望心累想躺平.md`
 
 ## 第四批结论（当前公开互联网可见范围）
 

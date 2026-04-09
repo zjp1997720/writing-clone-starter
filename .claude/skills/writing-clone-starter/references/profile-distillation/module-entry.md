@@ -40,7 +40,7 @@
 
 1. `references/built-in-profiles/<author-id>/` 下的正式 profile 资产
 2. `source-ledger.md`
-3. `02_素材库/` 下的同步素材资产
+3. `02_素材库/writing-clone-starter-material-library/` 下的同步素材资产
 
 ## 默认执行思路
 

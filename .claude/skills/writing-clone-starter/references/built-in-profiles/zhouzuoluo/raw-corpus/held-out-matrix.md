@@ -32,14 +32,14 @@
    - 形态: 公众号长文
    - 风险: 高
    - 用途: 检验高情绪 / 真心话结构下，模型是否滑回老师腔
-   - 已落文件: `00_收件箱/Clippings/粥左罗/2023-04-26 敢于辞职，不怕被辞，你就成年了，否则还是幼年！.md`
+   - 已落文件: `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-26 敢于辞职，不怕被辞，你就成年了，否则还是幼年！.md`
 
 4. `越自律越穷，越穷的人越谈自律`
    - URL: `https://mp.weixin.qq.com/s/UaYuwoG28sNLzkH2C3kyPg`
    - 形态: 公众号长文
    - 风险: 高
    - 用途: 检验反共识题下，模型是否还能保留真实感而非说教感
-   - 已落文件: `00_收件箱/Clippings/粥左罗/2023-04-25 越自律越穷，越穷的人越谈自律！.md`
+   - 已落文件: `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-25 越自律越穷，越穷的人越谈自律！.md`
 
 ### 缺口
 
@@ -55,7 +55,7 @@
    - 稳定转载: `https://m.21jingji.com/article/20190818/herald/27b39bd0c51fb6798b4f4fbac8c0ae6c.html`
    - 风险: 低
    - 用途: 检验“平台资源 vs 自身本事”这种失败复盘型题材
-   - 已落文件: `00_收件箱/Clippings/粥左罗/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md`
+   - 已落文件: `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md`
 
 2. `在北京有房有车了，但我却受够了这种工作，想去干体力活！`
    - URL: `https://mp.weixin.qq.com/s/gzLkdjEpbJcMOAyUobYF6w`
@@ -71,7 +71,7 @@
    - URL: `https://user.guancha.cn/main/content?id=973425`
    - 风险: 高
    - 用途: 检验“努力无回报 -> 想躺平”的心理摩擦，观察模型是否滑向鸡汤式老师腔
-   - 已落文件: `00_收件箱/Clippings/粥左罗/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md`
+   - 已落文件: `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md`
 
 ### 缺口
 

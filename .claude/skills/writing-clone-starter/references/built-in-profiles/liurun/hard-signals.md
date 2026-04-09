@@ -20,7 +20,7 @@ generic baseline 也会讲商业逻辑。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 3.3 节
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 3.3 节
 
 ## 2. 数据击穿直觉：主动寻找剪刀差
 
@@ -38,7 +38,7 @@ generic baseline 也会讲商业逻辑。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.1.2 节
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.1.2 节
 
 ## 3. 交易链诊断：画出链条、标出阻力点、给出重构方案
 
@@ -56,7 +56,7 @@ generic baseline 也会说"优化商业模式"。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 3.2 节
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 3.2 节
 
 ## 4. 反常数据嗅觉：在存量中找品类属性变迁
 
@@ -73,7 +73,7 @@ generic baseline 也会说"优化商业模式"。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 2.1.3 节
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 2.1.3 节
 
 ## 5. 金句从论述里长出来，不是贴上去的
 
@@ -91,7 +91,7 @@ generic baseline 也会说"优化商业模式"。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 4.1 节
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 4.1 节
 
 ## 6. 进化论不只是比喻，而是看问题的默认镜片
 
@@ -103,7 +103,7 @@ generic baseline 也会说"优化商业模式"。
 
 ### 来源
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md` 第 3.4 节
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md` 第 3.4 节
 
 ## 7. 共情极短，重构极快
 

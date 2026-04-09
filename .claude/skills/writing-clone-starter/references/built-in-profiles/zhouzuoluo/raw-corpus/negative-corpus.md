@@ -65,7 +65,7 @@
 - 建议目标层:
   - negative-corpus
 - 当前状态:
-  - 已落原始 clipping：`00_收件箱/Clippings/粥左罗/反例/2025-10-24 掌握头条号写作变现技巧，单篇收益翻倍至2243元的实战秘籍.md`
+  - 已落原始 clipping：`02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/negative/2025-10-24 掌握头条号写作变现技巧，单篇收益翻倍至2243元的实战秘籍.md`
 
 ### 4. 知识付费三问：变现、留存、运营
 
@@ -78,7 +78,7 @@
 - 建议目标层:
   - negative-corpus
 - 当前状态:
-  - 已落原始 clipping：`00_收件箱/Clippings/粥左罗/反例/2017-04-10 知识付费三问：变现、留存、运营.md`
+  - 已落原始 clipping：`02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/negative/2017-04-10 知识付费三问：变现、留存、运营.md`
 
 ### 5. 如何运营和推广一个付费社群
 
@@ -91,4 +91,4 @@
 - 建议目标层:
   - negative-corpus
 - 当前状态:
-  - 已落原始 clipping：`00_收件箱/Clippings/粥左罗/反例/2017-12-26 如何运营和推广一个付费社群（以知识星球为例）.md`
+  - 已落原始 clipping：`02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/negative/2017-12-26 如何运营和推广一个付费社群（以知识星球为例）.md`

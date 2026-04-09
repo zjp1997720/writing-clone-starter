@@ -23,7 +23,7 @@ Dan Koe 并不总是直接喊趋势。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_longformwriting.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_longformwriting.md`
 
 ### 对应段落 / 写法说明
 
@@ -49,8 +49,8 @@ generic baseline 往往只会喊“XX 回来了”“时代变了”。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_onepersonbizlaunch.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_fixlife1day.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_onepersonbizlaunch.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_fixlife1day.md`
 
 ### 对应段落 / 写法说明
 
@@ -76,7 +76,7 @@ Dan Koe 更强的地方，不是他说得多复杂，而是他能把复杂世界
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_fixlife1day.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_fixlife1day.md`
 
 ### 对应段落 / 写法说明
 
@@ -102,9 +102,9 @@ Dan Koe 的命名有三个动作一起出现：
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_intellectual-signature.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_contentmap.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_fixlife1day.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_intellectual-signature.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_contentmap.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_fixlife1day.md`
 
 ### 对应段落 / 写法说明
 
@@ -131,9 +131,9 @@ Dan Koe 更像的地方，是概念一旦出现，全文的世界观、结构和
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_contentmap.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_longformwriting.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_onepersonbizlaunch.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_contentmap.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_longformwriting.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_onepersonbizlaunch.md`
 
 ### 对应段落 / 写法说明
 
@@ -165,8 +165,8 @@ Dan Koe 更像的地方，是概念一旦出现，全文的世界观、结构和
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_contentmap.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_fixlife1day.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_contentmap.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_fixlife1day.md`
 
 ### 对应段落 / 写法说明
 
@@ -192,9 +192,9 @@ generic baseline 也会举例子。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_contentmap.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_longformwriting.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_onepersonbizlaunch.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_contentmap.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_longformwriting.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_onepersonbizlaunch.md`
 
 ### 对应段落 / 写法说明
 
@@ -220,8 +220,8 @@ Dan Koe 更像的收束，是让读者感觉自己刚被推到一条路径入口
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260313_dan_koe_onepersonbizlaunch.md`
-- `02_素材库/高表现内容/长文/20260313_dan_koe_fixlife1day.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_onepersonbizlaunch.md`
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_fixlife1day.md`
 
 ### 对应段落 / 写法说明
 

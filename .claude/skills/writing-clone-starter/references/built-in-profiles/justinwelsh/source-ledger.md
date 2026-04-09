@@ -18,10 +18,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-roadmap.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-roadmap.md`
    - 片段："I've run my business since 2019, juggling multiple tasks with zero employees... past $4M+ in income with no paid ads."
    - 为什么相关：直接展示了数字 + 排除条件 + 路径翻译的三连动作。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-marketing.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-marketing.md`
    - 片段：标题"7 Solopreneur Marketing Strategies"配合"年入 400 万美金"锚点
    - 为什么相关：跨文章复现了同一模式。
 
@@ -44,10 +44,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-types.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-types.md`
    - 片段："7 Types of Solopreneurs (Examples Included)" + 每类给标杆人物和变现路径
    - 为什么相关：清单的每条都是"角色定位 + 业务核心 + 变现路径 + 标杆案例"的判断单元。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
    - 片段："How to Stand Out From Competitors" + 30-30-30 method + USP 识别模型
    - 为什么相关：跨文章复现了"清单里的每条都不只是 tip"的模式。
 
@@ -70,13 +70,13 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
    - 片段："30-30-30 method" + "Listen -> Understand -> Solve"
    - 为什么相关：直接展示了公式化推进。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
    - 片段："Content Matrix: Themes x Styles" + "5 types of content that build following"
    - 为什么相关：跨文章复现。
-3. `02_素材库/高表现内容/长文/20260313_justin_welsh_solo-branding.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solo-branding.md`
    - 片段："3x5 社交影响力法则" + "周一至周五内容周计划"
    - 为什么相关：第三次复现。
 
@@ -99,10 +99,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-marketing.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-marketing.md`
    - 片段："With social media, you're renting. With an email list, you're owning."
    - 为什么相关：直接定义了 owned vs rented 的核心判断。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
    - 片段：Old Way (Ads, Fancy website) vs New Way (Content, Simple landing page, Private community)
    - 为什么相关：跨文章复现了资产意识。
 
@@ -125,10 +125,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_spectator-dilemma.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_spectator-dilemma.md`
    - 片段："The worst thing that happens when we take a chance is that our life stays the same. But the best thing? Our life changes forever."
    - 为什么相关：直接定义了风险重写的核心动作。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-types.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-types.md`
    - 片段："Likely worst case is you go back to work. Likely best case is you unlock a better life."
    - 为什么相关：跨文章复现。
 
@@ -151,10 +151,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_nicheofone.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_nicheofone.md`
    - 片段："A one-person business wins with one niche, 1000 true fans, one big problem, and a differentiated solution."
    - 为什么相关：直接定义了定位核心公式。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
    - 片段：Content Matrix（topics x styles）
    - 为什么相关：Niche of One 的具体工程化延伸。
 
@@ -177,13 +177,13 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
    - 片段："Stop idolizing outliers like Musk and Bezos. Study the person making $100,000."
    - 为什么相关：反共识判断直接服务正文推进方向。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_learningskeptic.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_learningskeptic.md`
    - 片段："Conventional wisdom isn't always wise."
    - 为什么相关：跨文章复现。
-3. `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
    - 片段："Striving to be like everyone else is the fastest route to mediocrity."
    - 为什么相关：第三次复现。
 
@@ -206,10 +206,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_spectator-dilemma.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_spectator-dilemma.md`
    - 片段："30-Day Challenge + Public Accountability"
    - 为什么相关：直接展示了行动指令型收束。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_solo-branding.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solo-branding.md`
    - 片段："极简内容生产法：每天选一个知识点，看视频，写下来"
    - 为什么相关：跨文章复现。
 
@@ -232,10 +232,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_solo-branding.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solo-branding.md`
    - 片段："Expertise is linear. You can make a living helping those 2-3 steps earlier in the journey than you."
    - 为什么相关：直接重新定义了"专家"的门槛。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-types.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-types.md`
    - 片段："If you have work experience, chances are, you have valuable knowledge that people will pay for."
    - 为什么相关：跨文章复现了同一世界观。
 
@@ -258,10 +258,10 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_pursuit-of-more.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_pursuit-of-more.md`
    - 片段："The real question isn't 'How big can I get?' but 'What life am I building for me and my family?'"
    - 为什么相关：直接挑战了无节制增长的默认叙事。
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-roadmap.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-roadmap.md`
    - 片段："My calendar is 30% regimented and 70% flexible."
    - 为什么相关：同一世界观的实践层证据。
 
@@ -284,9 +284,9 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_spectator-dilemma.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_spectator-dilemma.md`
    - 片段："Stop reading about starting. Stop dreaming about starting. Stop planning to get started. Just start."
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
    - 片段："Stop idolizing outliers..."
 
 ### 过门理由

@@ -49,10 +49,10 @@ Dan Koe profile 已经不再是试点空壳。
 
 当前已有：
 
-- `02_素材库/灵感素材/标题/` 中大量 `dan_koe` 标题文件
-- `02_素材库/灵感素材/开头/` 中大量 `dan_koe` 开头文件
-- `02_素材库/灵感素材/金句/` 中大量 `dan_koe` 金句文件
-- `02_素材库/灵感素材/结构/` 中大量 `dan_koe` 结构文件
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/snippets/titles/` 中大量 `dan_koe` 标题文件
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/snippets/openings/` 中大量 `dan_koe` 开头文件
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/snippets/quotes/` 中大量 `dan_koe` 金句文件
+- `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/snippets/structures/` 中大量 `dan_koe` 结构文件
 
 当前够用来做：
 
@@ -115,19 +115,19 @@ Dan Koe profile 已经不再是试点空壳。
 
 ### 第一梯队：最值得当一级核心源的文件
 
-1. `02_素材库/高表现内容/长文/20260313_dan_koe_longformwriting.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_longformwriting.md`
    - 价值：趋势宣告式开头、旧默认失效、写作即思考
 
-2. `02_素材库/高表现内容/长文/20260313_dan_koe_contentmap.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_contentmap.md`
    - 价值：地图/拼图隐喻作为结构支架、作者即向导、路径感结尾
 
-3. `02_素材库/高表现内容/长文/20260313_dan_koe_onepersonbizlaunch.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_onepersonbizlaunch.md`
    - 价值：读者困惑式进入、复杂问题极简压缩、流量入口 + 价值出口
 
-4. `02_素材库/高表现内容/长文/20260313_dan_koe_fixlife1day.md`
+4. `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_fixlife1day.md`
    - 价值：不舒服预判、身份诊断、反向愿景、生活方式先于结果
 
-5. `02_素材库/高表现内容/长文/20260313_dan_koe_intellectual-signature.md`
+5. `02_素材库/writing-clone-starter-material-library/authors/dankoe/canonical/longform/20260313_dan_koe_intellectual-signature.md`
    - 价值：命名权、思想签名、作者差异化 worldview
 
 ### 第二梯队：更适合作为 held-out 或补强验证的文件

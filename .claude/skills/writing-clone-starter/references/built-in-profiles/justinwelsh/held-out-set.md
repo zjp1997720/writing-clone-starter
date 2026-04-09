@@ -2,34 +2,34 @@
 
 ## 当前构建集（优先用于 profile 校准）
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-types.md`
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-marketing.md`
-3. `02_素材库/高表现内容/长文/20260313_justin_welsh_nicheofone.md`
-4. `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
-5. `02_素材库/高表现内容/长文/20260313_justin_welsh_spectator-dilemma.md`
-6. `02_素材库/高表现内容/长文/20260313_justin_welsh_pursuit-of-more.md`
-7. `02_素材库/高表现内容/长文/20260313_justin_welsh_solo-branding.md`
-8. `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
-9. `02_素材库/高表现内容/长文/20260313_justin_welsh_learningskeptic.md`
-10. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-roadmap.md`
-11. `02_素材库/高表现内容/长文/20260313_justin_welsh_autodidactic.md`
-12. `02_素材库/高表现内容/长文/20260313_justin_welsh_pb_upgrade.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-types.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-marketing.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_nicheofone.md`
+4. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
+5. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_spectator-dilemma.md`
+6. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_pursuit-of-more.md`
+7. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solo-branding.md`
+8. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
+9. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_learningskeptic.md`
+10. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-roadmap.md`
+11. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_autodidactic.md`
+12. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_pb_upgrade.md`
 
 ## 当前 held-out 集（只服务后续盲测）
 
 1. `how to become a solopreneur`
    - URL: `https://justinwelsh.me/article/how-to-become-a-solopreneur`
-   - 原始 Clipping: `00_收件箱/Clippings/Justin Welsh/unknown-date how to become a solopreneur.md`
+   - 原始 Clipping: `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/evidence/clippings/unknown-date how to become a solopreneur.md`
    - 分类：A. Solopreneur 经营策略
 
 2. `solopreneur social media`
    - URL: `https://justinwelsh.me/article/solopreneur-social-strategy`
-   - 原始 Clipping: `00_收件箱/Clippings/Justin Welsh/unknown-date solopreneur social media.md`
+   - 原始 Clipping: `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/evidence/clippings/unknown-date solopreneur social media.md`
    - 分类：B. 内容系统与社交媒体策略
 
 3. `how to build a personal brand`
    - URL: `https://justinwelsh.me/article/how-to-build-a-personal-brand`
-   - 原始 Clipping: `00_收件箱/Clippings/Justin Welsh/unknown-date how to build a personal brand.md`
+   - 原始 Clipping: `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/evidence/clippings/unknown-date how to build a personal brand.md`
    - 分类：C. 个人品牌与定位
 
 ## 待补充（建议从 Clipping 库中选取）

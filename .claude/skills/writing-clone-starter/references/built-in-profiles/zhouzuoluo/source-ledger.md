@@ -18,7 +18,7 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_title-first-click.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_title-first-click.md`
    - 片段：`[注意力锚点] + [判断后缀]`
    - 为什么相关：直接定义了标题和判断的组合关系。
 2. `https://reading.quanlitu.com/detail/10077.html`
@@ -44,7 +44,7 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
 2. `https://zhuanlan.zhihu.com/p/87536309`
 
 ### 过门理由
@@ -66,8 +66,8 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
-2. `02_素材库/灵感素材/结构/20260406_zhouzuoluo_story-viewpoint-progression_1.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/20260406_zhouzuoluo_story-viewpoint-progression_1.md`
 
 ### 过门理由
 
@@ -88,7 +88,7 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
 2. `https://zhuanlan.zhihu.com/p/422300520`
 
 ### 过门理由
@@ -110,8 +110,8 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_upward-growth-environment.md`
-2. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_writing-as-upward-mobility.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_upward-growth-environment.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_writing-as-upward-mobility.md`
 
 ### 过门理由
 
@@ -132,7 +132,7 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_growth-monetization-funnel.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_growth-monetization-funnel.md`
 2. `https://xueqiu.com/1539061925/137098890`
 
 ### 过门理由
@@ -154,7 +154,7 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_growth-monetization-funnel.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_growth-monetization-funnel.md`
 2. `https://xueqiu.com/1539061925/137098890`
 
 ### 过门理由
@@ -176,7 +176,7 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260406_zhouzuoluo_writing-as-upward-mobility.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_writing-as-upward-mobility.md`
 2. `https://zhuanlan.zhihu.com/p/87536309`
 
 ### 过门理由
@@ -198,9 +198,9 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md`
-2. `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md`
-3. `00_收件箱/Clippings/粥左罗/反例/2017-04-10 知识付费三问：变现、留存、运营.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/negative/2017-04-10 知识付费三问：变现、留存、运营.md`
 
 ### 过门理由
 
@@ -221,8 +221,8 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md`
-2. `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗普通人如何一年内赚到_200_万.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗拆解写作年收入图书版税50万课程1000万.md`
 
 ### 过门理由
 
@@ -243,8 +243,8 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260408_粥左罗主创团_月薪从3万降到500030岁之后要逼自己系统性成长.md`
-2. `00_收件箱/Clippings/粥左罗/2020-03-26 月薪从3万降到5000：30岁之后，要逼自己系统性成长.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗主创团_月薪从3万降到500030岁之后要逼自己系统性成长.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2020-03-26 月薪从3万降到5000：30岁之后，要逼自己系统性成长.md`
 
 ### 过门理由
 
@@ -265,8 +265,8 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/短图文/20260408_粥左罗_粥左罗我已经不缺钱了那我每天拼命努力动力是什么.md`
-2. `00_收件箱/Clippings/粥左罗/2023-04-13 粥左罗：我已经不缺钱了，那我每天拼命努力，动力是什么？.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/shortform/20260408_粥左罗_粥左罗我已经不缺钱了那我每天拼命努力动力是什么.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-13 粥左罗：我已经不缺钱了，那我每天拼命努力，动力是什么？.md`
 
 ### 过门理由
 
@@ -287,8 +287,8 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260408_粥左罗_离职创业18个月我重新反思人最大的悲哀是错把平台当本事.md`
-2. `00_收件箱/Clippings/粥左罗/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_离职创业18个月我重新反思人最大的悲哀是错把平台当本事.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2019-08-18 离职创业18个月，我重新反思人最大的悲哀是错把平台当本事.md`
 
 ### 过门理由
 
@@ -309,8 +309,8 @@
 
 ### 证据来源
 
-1. `02_素材库/高表现内容/长文/20260408_粥左罗_粥左罗赚不到钱看不到希望心累想躺平.md`
-2. `00_收件箱/Clippings/粥左罗/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260408_粥左罗_粥左罗赚不到钱看不到希望心累想躺平.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/evidence/clippings/2023-04-10 粥左罗：赚不到钱，看不到希望，心累，想躺平！.md`
 
 ### 过门理由
 

@@ -16,24 +16,24 @@
 
 当前已纳入（12 篇长文级主资产）：
 
-1. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-types.md`
-2. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-marketing.md`
-3. `02_素材库/高表现内容/长文/20260313_justin_welsh_nicheofone.md`
-4. `02_素材库/高表现内容/长文/20260313_justin_welsh_stand-out-strategy.md`
-5. `02_素材库/高表现内容/长文/20260313_justin_welsh_spectator-dilemma.md`
-6. `02_素材库/高表现内容/长文/20260313_justin_welsh_pursuit-of-more.md`
-7. `02_素材库/高表现内容/长文/20260313_justin_welsh_solo-branding.md`
-8. `02_素材库/高表现内容/长文/20260313_justin_welsh_socialcontentos.md`
-9. `02_素材库/高表现内容/长文/20260313_justin_welsh_learningskeptic.md`
-10. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-roadmap.md`
-11. `02_素材库/高表现内容/长文/20260313_justin_welsh_autodidactic.md`
-12. `02_素材库/高表现内容/长文/20260313_justin_welsh_pb_upgrade.md`
+1. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-types.md`
+2. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-marketing.md`
+3. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_nicheofone.md`
+4. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_stand-out-strategy.md`
+5. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_spectator-dilemma.md`
+6. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_pursuit-of-more.md`
+7. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solo-branding.md`
+8. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_socialcontentos.md`
+9. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_learningskeptic.md`
+10. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-roadmap.md`
+11. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_autodidactic.md`
+12. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_pb_upgrade.md`
 
 另有 2 篇长文作为补充证据：
 
-13. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneurroadmap.md`
-14. `02_素材库/高表现内容/长文/20260313_justin_welsh_solopreneur-social-strategy.md`
-15. `02_素材库/高表现内容/长文/20260313_justin_welsh_personal_brand_7steps.md`
+13. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneurroadmap.md`
+14. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_solopreneur-social-strategy.md`
+15. `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/longform/20260313_justin_welsh_personal_brand_7steps.md`
 
 目标数量：15-20（当前已达标低线）
 
@@ -46,12 +46,12 @@
 - 给标题、开头、金句、结构提供可回找证据
 - 只做辅助，不再单独承担 formal 证据主责
 
-当前已存在（已在 `02_素材库/灵感素材/` 中）：
+当前已存在（已归入统一素材库的 snippets 层）：
 
-- 标题：约 15 条（`02_素材库/灵感素材/标题/20260313_justin_welsh_*`）
-- 开头：约 12 条（`02_素材库/灵感素材/开头/20260313_justin_welsh_*`）
-- 金句：约 25 条（`02_素材库/灵感素材/金句/20260313_justin_welsh_*`）
-- 结构：约 20 条（`02_素材库/灵感素材/结构/20260313_justin_welsh_*`）
+- 标题：约 15 条（`02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/snippets/titles/20260313_justin_welsh_*`）
+- 开头：约 12 条（`02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/snippets/openings/20260313_justin_welsh_*`）
+- 金句：约 25 条（`02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/snippets/quotes/20260313_justin_welsh_*`）
+- 结构：约 20 条（`02_素材库/writing-clone-starter-material-library/authors/justinwelsh/canonical/snippets/structures/20260313_justin_welsh_*`）
 
 ---
 
@@ -64,7 +64,7 @@
 
 当前已抓取（15 篇原始 Clipping）：
 
-目录：`00_收件箱/Clippings/Justin Welsh/`
+目录：`02_素材库/writing-clone-starter-material-library/authors/justinwelsh/evidence/clippings/`
 
 - spectators dilemma
 - how to become a solopreneur
@@ -104,7 +104,7 @@
 ## 当前执行约束
 
 1. 这份索引只服务 `justinwelsh` 当前这版 `formal-profile-draft`
-2. 当前阶段不强行在 raw-corpus 目录复制全文，一手原文已在 `00_收件箱/Clippings/Justin Welsh/` 稳定存储
+2. 当前阶段不强行在 raw-corpus 目录复制全文，一手原文已在 `02_素材库/writing-clone-starter-material-library/authors/justinwelsh/evidence/clippings/` 稳定存储
 3. 扩容顺序：先补原始 Clipping，再补素材库碎片，再更新 ledger，再重开 blind probe
 4. 不要只按"编号清单信号"补语料，优先补能证明：
    - 漏斗意识在不同主题中的复现

@@ -20,8 +20,8 @@ generic baseline 也会蹭热点。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_title-first-click.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_title-first-click.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
 
 ## 2. 选题不是找一个有趣话题，而是主动找最大公约数受众
 
@@ -33,8 +33,8 @@ generic baseline 也会蹭热点。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_writing-as-upward-mobility.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_mass-resonance-topic-selection.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_writing-as-upward-mobility.md`
 
 ## 3. 正文主单元通常是“故事 / 案例 -> 观点 -> 金句”三连
 
@@ -51,8 +51,8 @@ generic baseline 也会举例子。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
-- `02_素材库/灵感素材/结构/20260406_zhouzuoluo_story-viewpoint-progression_1.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/20260406_zhouzuoluo_story-viewpoint-progression_1.md`
 
 ## 4. 会用多角色小标题扩大代入面，而不是只沿一条读者路径写下去
 
@@ -64,8 +64,8 @@ generic baseline 也会举例子。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
-- `02_素材库/灵感素材/结构/20260406_zhouzuoluo_story-viewpoint-progression_2.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/20260406_zhouzuoluo_story-viewpoint-progression_2.md`
 
 ## 5. 会把成长判断落回钱、工作、环境、圈子，而不是只留在认知层
 
@@ -77,8 +77,8 @@ generic baseline 也会举例子。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_upward-growth-environment.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_writing-as-upward-mobility.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_upward-growth-environment.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_writing-as-upward-mobility.md`
 
 ## 6. 内容不会停在内容层，而是天然带着“信任 -> 产品 -> 长期关系”意识
 
@@ -90,8 +90,8 @@ generic baseline 可能也会卖课。
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_growth-monetization-funnel.md`
-- `02_素材库/灵感素材/结构/20260406_zhouzuoluo_growth-monetization-funnel_1.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_growth-monetization-funnel.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/snippets/structures/20260406_zhouzuoluo_growth-monetization-funnel_1.md`
 
 ## 7. 结尾更像一句适合转发的判断 + 一个现实动作入口
 
@@ -161,18 +161,18 @@ generic baseline 很容易把这类题写成：
 
 ### 来源
 
-- `00_收件箱/实测/2026-04-06_粥左罗profile盲测-C2/evaluator_score.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗profile盲测-C2/evaluator_score.md`
 
 ### 来源
 
-- `00_收件箱/实测/2026-04-06_粥左罗profile盲测-B/evaluator_score.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗profile盲测-B/evaluator_score.md`
 
 ### 来源
 
-- `00_收件箱/实测/2026-04-06_粥左罗高拟态实测/rounds/round-02/evaluator_score.md`
-- `00_收件箱/实测/2026-04-06_粥左罗高拟态实测/rounds/round-03/evaluator_score.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗高拟态实测/rounds/round-02/evaluator_score.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/validation/probe-evidence/2026-04-06_粥左罗高拟态实测/rounds/round-03/evaluator_score.md`
 
 ### 来源
 
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_story-viewpoint-progression.md`
-- `02_素材库/高表现内容/长文/20260406_zhouzuoluo_upward-growth-environment.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_story-viewpoint-progression.md`
+- `02_素材库/writing-clone-starter-material-library/authors/zhouzuoluo/canonical/longform/20260406_zhouzuoluo_upward-growth-environment.md`

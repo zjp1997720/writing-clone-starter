@@ -40,7 +40,7 @@
 
 落到：
 
-- `02_素材库/灵感素材/结构/`
+- `02_素材库/writing-clone-starter-material-library/authors/<author-id>/canonical/snippets/structures/`
 
 适用内容：
 
@@ -53,9 +53,9 @@
 
 落到：
 
-- `02_素材库/灵感素材/标题/`
-- `02_素材库/灵感素材/开头/`
-- `02_素材库/灵感素材/金句/`
+- `02_素材库/writing-clone-starter-material-library/authors/<author-id>/canonical/snippets/titles/`
+- `02_素材库/writing-clone-starter-material-library/authors/<author-id>/canonical/snippets/openings/`
+- `02_素材库/writing-clone-starter-material-library/authors/<author-id>/canonical/snippets/quotes/`
 
 适用内容：
 
@@ -68,7 +68,7 @@
 
 落到：
 
-- `02_素材库/高表现内容/长文/`
+- `02_素材库/writing-clone-starter-material-library/authors/<author-id>/canonical/longform/`
 
 适用内容：
 
@@ -87,5 +87,5 @@
 新增一个人物 profile 后，至少满足：
 
 1. `references/built-in-profiles/<author-id>/` 有正式 profile 资产
-2. `02_素材库/` 里已有该人物对应的可复用素材
+2. `02_素材库/writing-clone-starter-material-library/` 里已有该人物对应的可复用素材
 3. starter 后续调用该人物写作时，不需要额外再人工做一轮素材拆解

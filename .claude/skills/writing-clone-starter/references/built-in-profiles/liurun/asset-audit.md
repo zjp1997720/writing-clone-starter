@@ -4,7 +4,7 @@
 
 ### 一、一级主证据
 
-- `01_项目/内容创作/咨询天团/构建刘润AI数字分身调研.md`（综合调研报告，覆盖世界观、框架、风格、蓝图）
+- `02_素材库/writing-clone-starter-material-library/authors/liurun/evidence/project-derived/构建刘润AI数字分身调研.md`（综合调研报告，覆盖世界观、框架、风格、蓝图）
 
 ### 二、二级证据（公开来源）
 
