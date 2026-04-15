@@ -1,0 +1,456 @@
+---
+name: article-illustrator
+description: Smart article illustration skill. Analyzes article content and generates illustrations at positions requiring visual aids with multiple style options. Use when user asks to "add illustrations to article", "generate images for article", or "illustrate article".
+---
+
+# Smart Article Illustration Skill
+
+> Historical backup only. Defaults in this file may be outdated; use `SKILL.md` as the active source of truth.
+
+Analyze article structure and content, identify positions requiring visual aids, and generate illustrations with flexible style options.
+
+## Quick Mode (Default)
+
+**Quick mode is enabled by default**, providing fully automated illustration generation:
+
+- ✅ **No user confirmation required** - runs from start to finish
+- ✅ **Auto-select style** based on content analysis
+- ✅ **Auto-select backend** - defaults to `seedream-image` (Doubao Seedream 5.0)
+- ✅ **Auto-detect language** - uses article language for prompts
+- ✅ **Auto-determine illustration count** - min 3, max 6 based on article length
+- ✅ **Auto-upload to image hosting** - uploads generated images via PicGo, inserts online URLs
+
+```bash
+# Quick mode (default)
+/article-illustrator path/to/article.md
+
+# Quick mode with specific style
+/article-illustrator path/to/article.md --style warm
+
+# Normal mode (with confirmation)
+/article-illustrator path/to/article.md --normal
+
+# Skip image hosting upload
+/article-illustrator path/to/article.md --no-upload
+```
+
+## Usage
+
+```bash
+# Quick mode (default) - fully automated
+/article-illustrator path/to/article.md
+
+# Quick mode with specific style
+/article-illustrator path/to/article.md --style warm
+/article-illustrator path/to/article.md --style minimal
+
+# Normal mode - with user confirmation
+/article-illustrator path/to/article.md --normal
+
+# Specify backend
+/article-illustrator path/to/article.md --backend z-image-turbo
+
+# Skip image hosting upload (use local paths)
+/article-illustrator path/to/article.md --no-upload
+
+# Combine options
+/article-illustrator path/to/article.md --normal --style elegant --backend gemini-web
+```
+
+## Options
+
+| Option | Default | Description |
+|--------|---------|-------------|
+| `--style <name>` | Auto-select | Specify illustration style (see Style Gallery below) |
+| `--quick` | ✅ Enabled | Quick mode: fully automated, no user confirmation |
+| `--normal` | - | Normal mode: with user confirmation at key steps |
+| `--backend <name>` | `seedream-image` | Image generation backend |
+| `--no-upload` | - | Skip image hosting upload, use local paths |
+
+## Image Generation Backends
+
+| Backend | Quality | Speed | Resolution | Best For |
+|---------|---------|-------|------------|----------|
+| **`seedream-image`** (Default) | Excellent | Fast | 2048×1152 | **Chinese prompts, article illustrations** |
+| `z-image-turbo` | Good | Fast | 2048×1152 | General illustrations |
+| `gemini-web` | Excellent | Medium | 768×768 | High quality, low resolution |
+
+**Default backend selection rationale**: `seedream-image` (doubao-seedream-5-0-260128) is optimized for Chinese prompts and high-quality article illustrations.
+
+## Style Gallery
+
+| Style | Description | Best For |
+|-------|-------------|----------|
+| `business-whiteboard` (Default) | 极简商务白板手绘风，逻辑严密素雅 | 商业分析、知识结构、战略规划 |
+| `notion` | Minimalist hand-drawn line art, intellectual | Knowledge sharing, SaaS, productivity |
+| `elegant` | Refined, sophisticated, professional | Business, thought leadership |
+| `warm` | Friendly, approachable, human-centered | Personal growth, lifestyle, education |
+| `minimal` | Ultra-clean, zen-like, focused | Philosophy, minimalism, core concepts |
+| `playful` | Fun, creative, whimsical | Tutorials, beginner guides, fun topics |
+| `nature` | Organic, calm, earthy | Sustainability, wellness, outdoor |
+| `sketch` | Raw, authentic, notebook-style | Ideas, brainstorming, drafts |
+| `watercolor` | Soft artistic with natural warmth | Lifestyle, travel, creative |
+| `vintage` | Nostalgic aged-paper aesthetic | Historical, biography, heritage |
+| `scientific` | Academic precise diagrams | Biology, chemistry, technical |
+| `chalkboard` | Classroom chalk drawing style | Education, tutorials, workshops |
+| `editorial` | Magazine-style infographic | Tech explainers, journalism |
+| `flat` | Modern flat vector illustration | Startups, digital, contemporary |
+| `flat-doodle` | Bold outlines, pastel colors, cute | Productivity, SaaS, workflows |
+| `retro` | 80s/90s vibrant nostalgic | Pop culture, gaming, entertainment |
+| `blueprint` | Technical schematics, engineering precision | Architecture, system design |
+| `vector-illustration` | Flat vector with black outlines, retro colors | Educational, creative, brand content |
+| `sketch-notes` | Soft hand-drawn, warm educational feel | Knowledge sharing, tutorials |
+| `pixel-art` | Retro 8-bit gaming aesthetic | Gaming, tech, developer content |
+| `intuition-machine` | Technical briefing with bilingual labels | Academic, technical, bilingual |
+| `fantasy-animation` | Ghibli/Disney whimsical style | Storytelling, children's, creative |
+
+Full style specifications in `references/styles/<style>.md`
+
+## Auto Style Selection
+
+When no `--style` is specified, analyze content to select the best style:
+
+| Content Signals | Selected Style |
+|----------------|----------------|
+| Personal story, emotion, growth, life, feeling, relationship | `warm` |
+| Simple, zen, focus, essential, core, minimalist | `minimal` |
+| Fun, easy, beginner, tutorial, guide, how-to, learn | `playful` |
+| Nature, eco, wellness, health, organic, green, outdoor | `nature` |
+| Idea, thought, concept, draft, brainstorm, sketch | `sketch` |
+| Business, analysis, framework, strategy, logic, structure, model, process, commercial | `business-whiteboard` |
+| Business, professional, strategy, analysis, corporate | `elegant` |
+| Knowledge, concept, productivity, SaaS, notion, tool | `notion` |
+| Lifestyle, travel, food, art, creative, artistic | `watercolor` |
+| History, heritage, vintage, biography, classic, expedition | `vintage` |
+| Biology, chemistry, medical, scientific, research, academic | `scientific` |
+| Education, classroom, teaching, school, lecture, workshop | `chalkboard` |
+| Explainer, journalism, magazine, in-depth, investigation | `editorial` |
+| Modern, startup, app, product, digital marketing, saas | `flat` |
+| Productivity, workflow, cute, tools, app tutorial | `flat-doodle` |
+| 80s, 90s, retro, pop culture, music, nostalgia | `retro` |
+| Architecture, system, infrastructure, engineering, technical | `blueprint` |
+| Brand, explainer, children, cute, toy, geometric | `vector-illustration` |
+| Notes, doodle, friendly, warm tutorial, onboarding | `sketch-notes` |
+| Gaming, 8-bit, pixel, developer, retro tech | `pixel-art` |
+| Bilingual, briefing, academic, research, documentation | `intuition-machine` |
+| Fantasy, story, magical, Ghibli, Disney, children | `fantasy-animation` |
+| Default | `business-whiteboard` |
+
+## File Management
+
+### Output Directory
+
+Each session creates an independent directory named by content slug:
+
+```
+illustrations/{topic-slug}/
+├── source-{slug}.{ext}    # Source files (text, images, etc.)
+├── outline.md             # Final illustration plan
+├── prompts/
+│   ├── illustration-concept-a.md
+│   ├── illustration-concept-b.md
+│   └── ...
+├── illustration-concept-a.png
+├── illustration-concept-b.png
+└── ...
+```
+
+**Slug Generation**:
+1. Extract main topic from content (2-4 words, kebab-case)
+2. Example: "The Future of AI" → `future-of-ai`
+
+### Conflict Resolution
+
+If `illustrations/{topic-slug}/` already exists:
+- Append timestamp: `{topic-slug}-YYYYMMDD-HHMMSS`
+- Example: `ai-future` exists → `ai-future-20260118-143052`
+
+## Workflow
+
+### Quick Mode Flow (Default)
+
+**Objective**: Generate article illustrations end-to-end without user interaction.
+
+```
+Input → Analyze → Auto-select style → Auto-select backend → 
+Generate prompts → Generate images → Upload to image hosting → 
+Update article → Complete
+```
+
+**Quick Mode Rules**:
+1. **Style**: Auto-select based on content signals (unless `--style` specified)
+2. **Backend**: Use `qwen-image` (unless `--backend` specified)
+3. **Language**: Use article language for prompts
+4. **Illustration count**: `min(6, max(3, major_sections))` - at least 3, at most 6
+5. **Image hosting**: Auto-upload via PicGo (unless `--no-upload` specified)
+6. **No confirmations**: Only ask if critical error or missing required input
+
+### Normal Mode Flow
+
+**Objective**: Allow user to review and adjust at key decision points.
+
+```
+Input → Analyze → Present style options → User selects → 
+Generate prompts → Present backend options → User selects → 
+Generate images → Upload to image hosting → Update article → Complete
+```
+
+**Normal Mode Rules**:
+1. Present 3 style variants for user selection
+2. Ask language preference if source ≠ user language
+3. Ask backend preference if multiple available
+4. Allow user to edit `outline.md` before generation
+
+### Step 1: Analyze Content & Select Style
+
+1. Read article content
+2. **Quick mode**: Auto-select style based on content signals
+3. **Normal mode**: Generate 3 style variants for user selection
+4. Detect language:
+   - Source language from article
+   - User language from conversation
+5. Extract key information:
+   - Main topic and themes
+   - Core messages per section
+   - Abstract concepts needing visualization
+
+### Step 2: Identify Illustration Positions
+
+**Three Purposes of Illustrations**:
+1. **Information Supplement**: Help understand abstract concepts
+2. **Concept Visualization**: Transform abstract ideas into concrete visuals
+3. **Imagination Guidance**: Create atmosphere, enhance reading experience
+
+**Content Suitable for Illustrations**:
+- Abstract concepts needing visualization
+- Processes/steps needing diagrams
+- Comparisons needing visual representation
+- Core arguments needing reinforcement
+- Scenarios needing imagination guidance
+
+**Illustration Count**:
+- **Quick mode**: `min(6, max(3, major_sections))`
+- **Normal mode**: Consider 1+ per major section, prioritize core arguments
+
+### Step 3: Generate Illustration Plan
+
+Create `outline.md` with illustration specifications:
+
+```markdown
+# Illustration Plan
+
+**Article**: [article path]
+**Style**: [selected style]
+**Backend**: [selected backend]
+**Illustration Count**: N images
+**Language**: [prompt language]
+
+---
+
+## Illustration 1
+
+**Insert Position**: [section name] / [paragraph description]
+**Purpose**: [why illustration needed here]
+**Visual Content**: [what the image should show]
+**Filename**: illustration-[slug].png
+
+---
+
+## Illustration 2
+...
+```
+
+### Step 4: Review & Confirm (Normal Mode Only)
+
+**Only in normal mode**, present confirmation options:
+
+1. Present 3 style variants
+2. Ask language preference if source ≠ user language
+3. Allow `outline.md` editing
+4. Proceed only after explicit confirmation
+
+**Quick mode**: Skip this step entirely.
+
+### Step 5: Create Prompt Files
+
+Save prompts to `prompts/` directory with style-specific details.
+
+**Prompt Format**:
+
+```markdown
+Illustration theme: [concept in 2-3 words]
+Style: [style name]
+Backend: [backend name]
+
+Visual composition:
+- Main visual: [description matching style]
+- Layout: [element positioning]
+- Decorative elements: [style-appropriate decorations]
+
+Color scheme:
+- Primary: [style primary color]
+- Background: [style background color]
+- Accent: [style accent color]
+
+Text content (if any):
+- [Any labels or captions in content language]
+
+Style notes: [specific style characteristics]
+
+Constraints: no watermark, no logo, no QR code
+```
+
+### Step 6: Generate Images
+
+**Backend Selection Logic**:
+
+```
+1. If --backend specified → use it
+2. Else if quick mode → use seedream-image (default)
+3. Else if normal mode → ask user to choose
+```
+
+**Generation Flow**:
+1. Call selected backend skill with prompt file and output path
+2. Generate images sequentially
+3. After each image, output progress: "Generated X/N"
+4. On failure, auto-retry once
+5. If retry fails, log reason, continue to next
+
+**Backend Invocation Examples**:
+
+# seedream-image (default)
+node ~/.claude/skills/seedream-image/scripts/generate.mjs \
+  --prompt "$(cat prompt.md)" \
+  --output "illustrations/{slug}/image.png" \
+  --size 2048x1152
+
+
+```bash
+# qwen-image (default)
+node ~/.claude/skills/qwen-image/scripts/tuzi/tuzi-image-generate.mjs \
+  --model qwen-image-2.0 \
+  --prompt "$(cat prompt.md)" \
+  --out-dir "illustrations/{slug}" \
+  --size 2048x1152
+
+# z-image-turbo
+python3 ~/.agents/skills/z-image-turbo/scripts/generate.py \
+  "$(cat prompt.md)" \
+  --output "illustrations/{slug}/image.png" \
+  --size 2048x1152
+```
+
+### Step 6.5: Upload Images to Image Hosting
+
+**Default behavior**: Automatically upload all generated images to image hosting via PicGo.
+
+**Upload Flow**:
+1. For each generated image, call `picgo-upload` skill
+2. Capture returned online URL
+3. Store URL for use in Step 7
+
+**Upload Invocation**:
+
+```bash
+# Upload single image
+url=$(node ~/.claude/skills/picgo-upload/scripts/upload.mjs "/absolute/path/to/image.png")
+
+# On success, url contains: https://your-bucket.cos.region.myqcloud.com/path/image.png
+```
+
+**Skip Upload**: Use `--no-upload` flag to keep local paths.
+
+### Step 7: Update Article
+
+Insert generated images at corresponding positions using **online URLs** (from Step 6.5):
+
+```markdown
+![illustration description](https://your-bucket.cos.region.myqcloud.com/path/illustration-[slug].png)
+```
+
+**URL Source** (in order of priority):
+1. Uploaded URL from Step 6.5 (default, recommended for WeChat/XHS publishing)
+2. Local relative path (only if `--no-upload` flag used):
+   ```markdown
+   ![illustration description](illustrations/illustration-[slug].png)
+   ```
+
+**Insertion Rules**:
+- Insert image after corresponding paragraph
+- Leave one blank line before and after image
+- Alt text uses concise description in article's language
+
+### Step 8: Output Summary
+
+```
+Article Illustration Complete!
+
+Article: [article path]
+Mode: quick/normal
+Style: [style name]
+Backend: [backend name]
+Generated: X/N images successful
+Uploaded: X/N to image hosting
+
+Illustration Positions:
+- illustration-xxx.png → After section "Section Name"
+- illustration-yyy.png → After section "Another Section"
+
+Output directory: illustrations/{topic-slug}/
+
+[If any failures]
+Failed:
+- illustration-zzz.png: [failure reason]
+```
+
+## Extension Support
+
+Custom configurations via EXTEND.md.
+
+**Check paths** (priority order):
+1. `.baoyu-skills/article-illustrator/EXTEND.md` (project)
+2. `~/.baoyu-skills/article-illustrator/EXTEND.md` (user)
+
+**EXTEND.md Example**:
+
+```yaml
+# Default behavior overrides
+quick_mode: true
+default_backend: qwen-image
+default_style: notion
+
+# Illustration count limits
+min_images: 3
+max_images: 6
+
+# Language settings
+prompt_language: auto  # auto|zh|en
+
+# Image hosting
+auto_upload: true
+
+# Backend preferences
+backend_priority:
+  - qwen-image
+  - z-image-turbo
+```
+
+## Notes
+
+- Quick mode is **default** for maximum efficiency
+- Use `--normal` for collaborative workflow with user confirmation
+- Use `--no-upload` to skip image hosting upload (use local paths)
+- Illustrations serve the content: supplement information, visualize concepts
+- Maintain selected style consistency across all illustrations in one article
+- Image generation typically takes 10-30 seconds per image
+- Image upload requires PicGo/PicList server running at `http://127.0.0.1:36677`
+- Sensitive figures should use cartoon alternatives
+- Prompts written in article language (or user-specified language in normal mode)
+
+---
+
+**Last Updated**: 2026-03-04
+**Default Backend**: seedream-image
+**Default Mode**: quick
+**Default Upload**: enabled (use `--no-upload` to disable)

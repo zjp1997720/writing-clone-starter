@@ -1,0 +1,21 @@
+{
+  "skill_name": "video-script-illustrator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我把这个视频号脚本生成配图\n01_项目/内容创作/260307_OpenClaw放大器论/视频号脚本-3分钟版.md",
+      "expected_output": "Generate 5-6 business whiteboard-style vertical images (3:4) for the OpenClaw script, saved to the same directory as the script",
+      "files": [
+        "01_项目/内容创作/260307_OpenClaw放大器论/视频号脚本-3分钟版.md"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "帮我把这个小红书结构化稿生成图卡\n01_项目/内容创作/260310_飞书妙搭一键部署商单/草稿_final.xhs.md",
+      "expected_output": "Read xhs_card_outline from the structured note, generate 5-7 3:4 Xiaohongshu cards, and write image paths back into xhs_images",
+      "files": [
+        "01_项目/内容创作/260310_飞书妙搭一键部署商单/草稿_final.xhs.md"
+      ]
+    }
+  ]
+}
