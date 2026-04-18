@@ -1,40 +1,66 @@
-# claude-code-toolkit
+# content-twin-toolkit
 
-> A content-output and digital-twin toolkit built for Claude Code.
+> 大鹏开源的 **内容系统 + 分身系统** 工具链。基于 Claude Code 生态，围绕写作分身、顾问天团、素材挖掘与 Skill 持续优化展开。
 
-大鹏（[@zjp1997720](https://github.com/zjp1997720)）在 Claude Code 生态下真实使用并持续维护的一套**内容输出 + 分身系统**工具链。
+这不是一个泛泛的「Claude Code 工具箱」。
 
-它不是泛泛的“Claude Code 工具箱”，而是围绕三件事展开：
+这个仓库真正开源的，是我在真实工作里长期使用、长期迭代的那套系统：
 
-- **写作分身**：把想法、素材和个人表达能力，收束成可直接产出的写作系统
-- **顾问天团**：把不同顾问视角接进决策与内容前置思考
-- **Skill 优化器**：让整套 skill 体系可以持续维护、诊断、优化，而不是越用越乱
+- **内容系统**：从素材抓取、素材拆解，到文章生成、终稿审计
+- **分身系统**：把写作能力、判断能力、顾问视角，沉淀成可复用的 skill / agent 资产
 
-这不是教程，是可以直接装进你的 Claude Code 工作区运行的资产。
+如果你也在做自己的内容系统、写作分身、顾问系统，或者正在用 Claude Code 搭自己的工作流，这个仓库会更有参考价值。
 
 ---
 
-## 它解决什么问题
+## 我是谁
 
-### 1. 写作分身
+我是大鹏（[@zjp1997720](https://github.com/zjp1997720)）。
 
-你没有完整的个人风格资产，但现在就想写出一篇结构清晰、可以直接发布的文章。
+我长期在一线真实使用 Claude Code、Agent、Skill、内容系统和分身系统，不是为了演示，而是为了把它们真正接进我的内容创作、商业表达和日常工作流里。
 
-### 2. 顾问天团
+这个仓库里的东西，不是一次性 prompt，也不是漂亮 demo。
 
-你面对一个商业 / 产品 / 人生决策，想同时听到芒格、乔布斯、刘润、Naval……这些人会怎么分析。
+它们都是我在真实任务里一轮一轮跑出来、改出来、留下来的资产。
 
-### 3. Skill 持续优化
+---
 
-当你自己的 skill 越来越多时，你需要一套**不改坏原合同、又能逐轮优化**的方法，去维护 trigger、结构、边界和表现。
+## 这个仓库现在包含什么
 
-这三层可以独立使用，也可以串起来：
+### 1. 写作系统
 
-```text
-顾问天团 → 写作分身 → Skill 优化器
-```
+围绕内容生产，我现在公开了两条写作链路：
 
-先把问题想清楚，再把洞察写出来，最后把整套系统继续优化下去。
+- **`writing-clone-starter`**  
+  给还没有完整个人风格资产的人使用。默认先把文章写强，再在明确指定作者时进入高拟态模式。
+
+- **`writing-clone-profile`**  
+  给已经有个人风格资产、要按自己的声音写公众号 / 长文 / 自媒体内容的人使用。它不是“一个提示词”，而是一整套带上下文工程、风格资产、断言约束、节奏治理、终稿硬门的写作分身系统。
+
+另外还包含：
+
+- **`writing-gate-checker`**  
+  在正式终稿前做独立硬门审计，不让 writer 自己写、自己审、自己放行。
+
+- **`content-goldmine-gemini`**  
+  把文章 / Clippings / 长文拆成可复用素材碎片。
+
+- **`web-clipper`**  
+  把网页文章抓取为本地 Markdown。
+
+### 2. 顾问系统
+
+- **`consult`**
+- **`consult-team-rules`**
+- **`nuwa-consult-advisor`**
+
+这套链路用来把不同顾问视角接进判断、内容前置思考和决策过程里。
+
+### 3. Skill 优化系统
+
+- **`skill-optimizer`**
+
+它不是把旧 skill 改得更“标准”，而是优先保护原合同，再做诊断、提案和受控优化。
 
 ---
 
@@ -44,236 +70,184 @@
 .
 ├── .claude/
 │   ├── skills/
-│   │   ├── writing-clone-starter/    # 写作分身主入口
-│   │   ├── content-goldmine-gemini/  # 素材挖掘工具
-│   │   ├── web-clipper/              # 网页抓取工具
+│   │   ├── writing-clone-starter/    # 轻量写作入口：强文章模式 + 高拟态模式
+│   │   ├── writing-clone-profile/    # 个人风格写作分身：Profile 驱动长文系统
+│   │   ├── writing-gate-checker/     # 终稿前独立硬门审计
+│   │   ├── content-goldmine-gemini/  # 素材拆解与金矿沉淀
+│   │   ├── web-clipper/              # 网页抓取为本地 Markdown
 │   │   ├── consult/                  # 顾问天团主入口
-│   │   ├── consult-team-rules/       # 圆桌模式协作规则
+│   │   ├── consult-team-rules/       # 顾问圆桌协作规则
 │   │   ├── nuwa-consult-advisor/     # 新顾问蒸馏工具
 │   │   └── skill-optimizer/          # Skill 诊断与优化工具
 │   └── agents/
-│       ├── consult-munger.md         # 查理·芒格
-│       ├── consult-jobs.md           # 史蒂夫·乔布斯
-│       ├── consult-naval.md          # Naval Ravikant
-│       ├── consult-liurun.md         # 刘润
-│       ├── consult-liangning.md      # 梁宁
-│       ├── consult-luozhenyu.md      # 罗振宇
-│       ├── consult-xuehui.md         # 薛辉
-│       └── consult-runyu.md          # 润宇
-├── 02_素材库/                        # writing-clone-starter 运行时素材库
+│       ├── consult-munger.md
+│       ├── consult-jobs.md
+│       ├── consult-naval.md
+│       ├── consult-liurun.md
+│       ├── consult-liangning.md
+│       ├── consult-luozhenyu.md
+│       ├── consult-xuehui.md
+│       ├── consult-runyu.md
+│       └── writing-gate-checker.md
+├── 02_素材库/
+├── assets/
+│   └── zhijian-ai-wechat-card.png
 ├── LICENSE
 └── README.md
 ```
 
 ---
 
-## 写作分身
+## 为什么现在把 `writing-clone-profile` 开源出来
 
-### 包含什么
+因为我越来越确定一件事：
 
-| 工具 | 说明 |
-| --- | --- |
-| `writing-clone-starter` | 主入口：强文章模式 + 高拟态模式（内置 6 个作者） |
-| `content-goldmine-gemini` | 把文章 / Clippings 拆成可复用素材碎片 |
-| `web-clipper` | 把网页文章抓取为本地 Markdown |
+写作 Skill 真正难的，不是“能不能写出一篇文章”，而是能不能把下面这些东西工程化：
 
-### 两种写作模式
+- 文章值不值得读
+- 第一屏有没有抓力
+- 哪些内容 AI 可以补，哪些必须由人来提供
+- 读者为什么愿意一直读下去
+- 正式终稿之前，谁来做最后一道硬门审计
 
-**强文章模式**（默认）：不指定作者，按 4 种内容原型自动路由：观点拆解型 / 方法教程型 / 案例复盘型 / 认知升级型。目标是写出能站住脚、结构清晰、可直接发布的文章。
+`writing-clone-profile` 就是围绕这些问题，一轮一轮迭代出来的。
 
-**高拟态模式**：指定内置作者，按其方向写。内置 6 位作者：Dan Koe、粥左罗、Justin Welsh、刘润、梁宁、薛辉。如果题目超出作者带宽，自动降级回强文章模式，不硬凹。
+它里面不是只有一个 `SKILL.md`，而是一整套配套资产：
 
-### 快速试用
+- `Article Gravity Gate`
+- `Human-only Brief Slots`
+- `Reader Capture Audit`
+- `Reader Momentum Map`
+- `Human Feel & Flow Review`
+- `Claim Ledger`
+- `Module Budget`
+- `Gate Check Contract`
 
-```text
-帮我写一篇关于 AI 内容获客的文章
-```
-
-```text
-像 Dan Koe 那样写一篇关于一人公司内容策略的文章
-```
-
-### 维护者工具链
-
-如果你想扩充作者 profile，完整维护链是：
-
-```text
-web-clipper → content-goldmine-gemini → writing-clone-starter（profile 蒸馏模式）
-```
-
-> `content-goldmine-gemini` 依赖本地 Gemini CLI，首次使用需要安装并登录。
+如果你自己也在做写作 Skill、内容系统或者 Agent 工作流，这部分会很值得看。
 
 ---
 
-## 顾问天团
+## 写作系统怎么分工
 
-### 包含什么
+### `writing-clone-starter`
 
-| 工具 | 说明 |
-| --- | --- |
-| `consult` | 主入口：支持单聊、并行汇总、圆桌辩论三种模式 |
-| `consult-team-rules` | 圆桌模式的协作规则（`discuss` 模式专用） |
-| `nuwa-consult-advisor` | 蒸馏新顾问的工具：输入公开资料，输出可接入 `consult` 的 subagent |
+适合：
 
-### 8 位内置顾问
+- 还没有完整个人风格资产
+- 想先写出一篇强文章
+- 想体验某个内置作者方向
 
-| 顾问 | 核心视角 |
-| --- | --- |
-| 查理·芒格 | 多元思维模型、逆向思考、激励分析 |
-| 史蒂夫·乔布斯 | 产品哲学、聚焦、颠覆性决策 |
-| Naval Ravikant | 杠杆思维、长期游戏、个人战略 |
-| 刘润 | 商业模式、定价策略、交易结构 |
-| 梁宁 | 产品思维、用户需求洞察、AI 产品策略 |
-| 罗振宇 | 宏观趋势判断、AI 时代定位 |
-| 薛辉 | 短视频运营、流量获取、账号变现 |
-| 润宇 | 自媒体战略、IP 商业化、私域运营 |
+### `writing-clone-profile`
 
-### 三种使用模式
+适合：
 
-**单聊**：和某一位顾问深入对话。
+- 已经有自己的表达方向
+- 想按自己的声音写
+- 不满足于“像教程”，而是希望文章更像真人、更有节奏、更有主线
 
-```text
-/consult @芒格 我现在的定价策略是否合理？
-```
+### `writing-gate-checker`
 
-**并行汇总**：同一个问题，多位顾问同时给出独立观点，汇总对比。
+适合：
 
-```text
-/consult @芒格 @刘润 @Naval 帮我分析这个商业模式的核心风险
-```
-
-**圆桌讨论**：顾问之间互相辩论，观点碰撞。
-
-```text
-/consult --discuss @芒格 @乔布斯 @梁宁 关于 AI 产品是否应该先做 B 端
-```
-
-### 新增顾问
-
-用 `nuwa-consult-advisor` 蒸馏任何人：
-
-```text
-帮我把段永平蒸馏成一个新的 consult advisor
-```
-
-输入公开资料（文章、演讲、书籍），输出即可直接接入 consult 系统的 subagent 文件。
+- 已经有 candidate 稿
+- 准备正式产出 final
+- 想让最终稿经过独立硬门，而不是 writer 自放行
 
 ---
 
-## Skill 优化器
+## 顾问系统怎么用
 
-### 包含什么
-
-| 工具 | 说明 |
-| --- | --- |
-| `skill-optimizer` | 合同优先、带验证层的 Skill 优化器，用于诊断、提案、实验和保守保留 |
-
-### 它做什么
-
-`skill-optimizer` 不是把旧 skill 一股脑“改标准化”，而是：
-
-1. 先冻结原 Skill 的核心合同
-2. 再识别真正的 failure mode
-3. 再给出 hypothesis-driven proposal
-4. 经批准后做单轮受控优化
-5. 最后用 replay / dry-run / human review 做保守验证
-
-它适合：
-
-- skill 触发不准
-- 结构越来越乱
-- 想优化但不想把原意改坏
-- 想给自己的 skill 系统加一层持续维护能力
-
-### 快速试用
+### 单聊
 
 ```text
-帮我优化这个 skill，但不要改掉它原本的核心用途
+/consult @芒格 这套内容产品的核心风险是什么？
 ```
+
+### 并行汇总
 
 ```text
-先诊断这个 skill 的问题，再给我两套带验证思路的优化方案
+/consult @刘润 @Naval @梁宁 帮我看一下这个商业模式
 ```
 
-### 这和 Darwin 式自动优化的区别
+### 圆桌讨论
 
-这个仓库里的 `skill-optimizer` 走的是：
-
-- **contract-first**
-- **proposal before apply**
-- **evidence before keep**
-
-它会使用验证层，但不会假装一个总分能替代复杂判断，尤其是写作、风格、人格类 skill。
+```text
+/consult --discuss @芒格 @乔布斯 @梁宁 关于 AI 产品到底该先做 B 端还是 C 端
+```
 
 ---
 
 ## 安装
 
-### 方式一：手动复制
+### 方式一：直接 clone
 
 ```bash
-git clone https://github.com/zjp1997720/claude-code-toolkit.git
+git clone https://github.com/zjp1997720/content-twin-toolkit.git
 ```
 
-把你需要的目录复制到你的 Claude Code 工作区：
-
-- 写作分身：`.claude/skills/writing-clone-starter/` + `02_素材库/writing-clone-starter-material-library/`
-- 顾问天团：`.claude/skills/consult/` + `.claude/skills/consult-team-rules/` + `.claude/agents/consult-*.md`
-- 蒸馏新顾问：`.claude/skills/nuwa-consult-advisor/`
-- Skill 优化器：`.claude/skills/skill-optimizer/`
+然后把你需要的目录复制到自己的 Claude Code 工作区。
 
 ### 方式二：丢给 Agent
 
-把仓库链接丢给你的 Claude Code Agent，让它按 README 自动安装到你的工作区。
+你也可以把仓库链接直接丢给 Claude Code，让它按 README 帮你安装你需要的那部分。
 
 ---
 
 ## 使用前提
 
 - 需要 [Claude Code](https://claude.ai/code) 或兼容的 Agent 运行时
-- `content-goldmine-gemini` 需要本地安装 Gemini CLI 并完成登录
+- `content-goldmine-gemini` 依赖本地 Gemini CLI
+- `writing-clone-profile` 推荐配合 `nmem` / Obsidian CLI / 本地素材库一起使用
 
 ---
 
-## 设计理念
+## 路径约定
+
+这个仓库保留了我自己真实使用时的项目结构约定，比如：
+
+- `01_项目/`
+- `02_素材库/`
+- `03-Reviews/`
+- `deepsight_vault`
+
+如果你只是学习思路，直接阅读就可以。
+
+如果你要真正装到自己的工作区里，建议把这些路径和 vault 名替换成你自己的目录结构。
+
+---
+
+## 我对这套仓库的基本看法
 
 > **Skill 是资产，Prompt 是消耗品。**
+>
 > **上下文厚度 > 提示词技巧。**
-> **内容输出不是单点 prompt，而是分身系统。**
+>
+> **内容输出不是单点 prompt，而是一套系统。**
 
-这里的每个工具都是从真实任务中跑出来的，不是为了演示而造的。你用的越多，上下文积累越厚，工具越顺手。
-
----
-
-## 这个仓库更准确的名字是什么
-
-`claude-code-toolkit` 作为当前仓库名能用，但偏笼统。
-
-如果按这套仓库真实在做的事来命名，我更推荐：
-
-### `content-twin-toolkit`
-
-原因：
-
-- `content`：点明它主要围绕内容输出，不是泛工具集合
-- `twin`：点明它不是单个 prompt，而是分身系统
-- `toolkit`：保留“可组合、可扩展”的工具链感
-
-如果你之后准备正式改仓库名，我建议优先考虑这个名字。
-
-可选备选名：
-
-- `content-clone-toolkit`
-- `digital-twin-content-kit`
-- `content-agent-workbench`
+这个仓库里的工具，都是围绕这三句话长出来的。
 
 ---
 
-## 持续更新
+## 欢迎关注我的公众号：智简 AI
 
-这个仓库随我个人工具链演进持续同步。
+如果你对这些方向感兴趣：
 
-关注进展：Watch 这个仓库，或关注公众号 **「智见AI」**。
+- Claude Code
+- Agent 工作流
+- 分身系统
+- 内容系统
+- 写作分身
+- 自媒体与 AI 的真实结合方式
+
+欢迎关注我的公众号 **「智简 AI」**。
+
+我会持续分享：
+
+- 我正在真实使用的 Skill / Agent / 工作流
+- 我怎么优化自己的内容系统和分身系统
+- 我在一线跑出来的经验、踩坑和判断
+
+![智简 AI 公众号二维码](assets/zhijian-ai-wechat-card.png)
 
 ---
 
